@@ -1,0 +1,31 @@
+{
+  "name": "KartenScan",
+  "subtitle": "iPhone-Testversion",
+  "description": "KartenScan für Magic-Sammelkarten.",
+  "iconURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/icon.png",
+  "apps": [
+    {
+      "name": "KartenScan",
+      "bundleIdentifier": "de.korny.kartenscan",
+      "developerName": "KartenScan",
+      "localizedDescription": "Magic-Karten erfassen und Angebote für Cardmarket vorbereiten.",
+      "iconURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/icon.png",
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "KartenScan verwendet die Kamera, um deine Magic-Karten zu erfassen und zu erkennen."
+        }
+      },
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1",
+          "date": "2026-11-04T18:44:05Z",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.1.0-1.ipa",
+          "size": 307907,
+          "minOSVersion": "17.0"
+        }
+      ]
+    }
+  ]
+}
