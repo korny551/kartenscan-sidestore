@@ -13,10 +13,19 @@
       "appPermissions": {
         "entitlements": [],
         "privacy": {
-          "NSCameraUsageDescription": "KartenScan verwendet die Kamera, um deine Magic-Karten zu erfassen und zu erkennen."
+          "NSCameraUsageDescription": "KartenScan verwendet die Kamera, um deine Magic-Karten zu erfassen und zu erkennen.",
+          "NSFaceIDUsageDescription": "KartenScan verwendet Face ID, um deine gespeicherten Cardmarket-Zugangsdaten beim Ausfüllen zu schützen."
         }
       },
       "versions": [
+        {
+          "version": "0.13.0",
+          "buildVersion": "15",
+          "date": "2026-11-06T06:59:37Z",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.13.0-15.ipa",
+          "size": 1190449,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.12.0",
           "buildVersion": "14",
