@@ -19,6 +19,14 @@
       },
       "versions": [
         {
+          "version": "0.18.1",
+          "buildVersion": "23",
+          "date": "2026-11-06T16:54:23Z",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.18.1-23.ipa",
+          "size": 1470115,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.18.0",
           "buildVersion": "22",
           "date": "2026-11-06T15:28:49Z",
