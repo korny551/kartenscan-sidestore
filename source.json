@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.25.0",
+          "buildVersion": "31",
+          "date": "2026-11-08T22:45:07Z",
+          "localizedDescription": "- Online-Bestand nach Farben einsortieren, mit 18 Fächern pro Blatt und bis zu drei identischen Karten je Fach.\n- Ordnergröße einstellen, Karten abhaken oder später suchen und an derselben Stelle weitermachen.\n- Automatische Cardmarket-Anmeldung fängt vorübergehende Fehler ab und zeigt an, wenn deine Bestätigung nötig ist.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.25.0-31.ipa",
+          "size": 2515779,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.24.1",
           "buildVersion": "30",
           "date": "2026-11-08T21:40:30Z",
