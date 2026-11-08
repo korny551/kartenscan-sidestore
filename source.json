@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.24.1",
+          "buildVersion": "30",
+          "date": "2026-11-08T21:40:30Z",
+          "localizedDescription": "- Versandbereit lädt zuerst und zeigt bestätigte Bestellungen direkt an.\n- Bestellstatus und Warenkörbe laden getrennt. Fehler zeigen die betroffene Liste an.\n- Die automatische Anmeldung lässt sich nach erfolgreicher Anmeldung mit Face ID aktivieren.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.24.1-30.ipa",
+          "size": 2324160,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.24.0",
           "buildVersion": "29",
           "date": "2026-11-08T20:58:21Z",
