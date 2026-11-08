@@ -14,10 +14,19 @@
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "KartenScan verwendet die Kamera, um deine Magic-Karten zu erfassen und zu erkennen.",
-          "NSFaceIDUsageDescription": "KartenScan verwendet Face ID, um deine gespeicherten Cardmarket-Zugangsdaten beim Ausfüllen zu schützen."
+          "NSFaceIDUsageDescription": "KartenScan verwendet Face ID, um deine gespeicherten Cardmarket-Zugangsdaten beim Ausfüllen zu schützen.",
+          "NSBluetoothAlwaysUsageDescription": "KartenScan verwendet Bluetooth, um Lieferadressen direkt auf deinem SUPVAN-Etikettendrucker zu drucken."
         }
       },
       "versions": [
+        {
+          "version": "0.24.0",
+          "buildVersion": "29",
+          "date": "2026-11-08T20:58:21Z",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.24.0-29.ipa",
+          "size": 2268910,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.23.0",
           "buildVersion": "28",
