@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.28.1",
+          "buildVersion": "36",
+          "date": "2026-11-09T09:45:22Z",
+          "localizedDescription": "- Einstellungen über das Zahnrad oben rechts öffnen. Der Einstieg ist in Stapel, Verkauf und Nachrichten sowie deren Unterseiten verfügbar.\n- Beim Schließen der Einstellungen kehrst du zur vorherigen Ansicht zurück. Der Kamerascan behält seine eigene Werkzeugleiste.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.28.1-36.ipa",
+          "size": 2960329,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.28.0",
           "buildVersion": "35",
           "date": "2026-11-09T09:26:50Z",
