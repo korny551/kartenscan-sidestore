@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.29.1",
+          "buildVersion": "38",
+          "date": "2026-11-09T11:15:51Z",
+          "localizedDescription": "Wenn die erste Cardmarket-Prüfung beim Start unklar bleibt, prüft KartenScan die Anmeldeseite einmal im Hintergrund. Eine bestätigte Sitzung wird weiterverwendet. Bei aktivierter automatischer Anmeldung nutzt KartenScan den gespeicherten Zugang, sobald ein eindeutiges Anmeldeformular vorliegt.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.29.1-38.ipa",
+          "size": 3143664,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.29.0",
           "buildVersion": "37",
           "date": "2026-11-09T10:28:59Z",
