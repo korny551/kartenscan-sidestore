@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.5",
+          "buildVersion": "44",
+          "date": "2026-11-09T17:45:16Z",
+          "localizedDescription": "Die Absenderadresse kann in den Druckereinstellungen gespeichert werden. Sie steht klein, unterstrichen und einzeilig über der Lieferanschrift.\nFehlt der Absender, kannst du beim Druck ohne Absender fortfahren oder die Adresse eingeben und speichern.\nAlle Etiketten können einzeln oder gesammelt erneut gedruckt werden. Der Druckfortschritt erscheint im aktuellen Auftrag.\nPasswortfelder haben ein Auge zum Ein- und Ausblenden. Die Einsortier-Schaltflächen sind mittig und ohne Symbol gestaltet.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.5-44.ipa",
+          "size": 3330514,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.4",
           "buildVersion": "43",
           "date": "2026-11-09T16:01:48Z",
