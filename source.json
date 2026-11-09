@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.27.1",
+          "buildVersion": "34",
+          "date": "2026-11-09T08:54:26Z",
+          "localizedDescription": "- Der Posteingang erkennt die gemeinsame Cardmarket-Anmeldung auch bei einem Verkäuferzusatz im Bestand.\n- Chatliste und geöffnete Chats werden bei aktiver App im Hintergrund abgeglichen. Das Eingabefeld bleibt unten.\n- Bei Ladeproblemen unterscheidet KartenScan zwischen Verbindung, Kontenabgleich und Chatliste.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.27.1-34.ipa",
+          "size": 2717949,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.27.0",
           "buildVersion": "33",
           "date": "2026-11-09T08:36:18Z",
