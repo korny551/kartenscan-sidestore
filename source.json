@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.28.0",
+          "buildVersion": "35",
+          "date": "2026-11-09T09:26:50Z",
+          "localizedDescription": "- Aktive Cardmarket-Angebote im Preis, Zustand und in der Stückzahl korrigieren oder entfernen. Die App prüft das Ergebnis im Online-Bestand.\n- Fehlende oder beschädigte Karten beim Packen melden. Zugeordnete Karten gesammelt als entnommen und gepackt bestätigen und den Versand danach separat bestätigen.\n- Lagerplätze und Ordnergrößen als Datei sichern und mit Vorschau auf einem zweiten iPhone übernehmen.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.28.0-35.ipa",
+          "size": 2922238,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.27.1",
           "buildVersion": "34",
           "date": "2026-11-09T08:54:26Z",
