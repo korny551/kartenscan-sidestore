@@ -14,11 +14,20 @@
         "entitlements": [],
         "privacy": {
           "NSCameraUsageDescription": "KartenScan verwendet die Kamera, um deine Magic-Karten zu erfassen und zu erkennen.",
-          "NSFaceIDUsageDescription": "KartenScan verwendet Face ID, um deine gespeicherten Cardmarket-Zugangsdaten beim Ausfüllen zu schützen.",
+          "NSFaceIDUsageDescription": "KartenScan verwendet Face ID, um deine gespeicherten Anmeldungen für KartenScan und Cardmarket zu schützen.",
           "NSBluetoothAlwaysUsageDescription": "KartenScan verwendet Bluetooth, um Lieferadressen direkt auf deinem SUPVAN-Etikettendrucker zu drucken."
         }
       },
       "versions": [
+        {
+          "version": "0.29.0",
+          "buildVersion": "37",
+          "date": "2026-11-09T10:28:59Z",
+          "localizedDescription": "- KartenScan braucht jetzt ein eigenes Konto. Bestätige deine E-Mail-Adresse in der App mit einem Code von support@faep-app.de. Dein Passwort kannst du per E-Mail zurücksetzen.\n- Wenn du angemeldet bleiben möchtest, genügt beim Start eine Face-ID-Freigabe für KartenScan und Cardmarket.\n- Lagerplätze und Ordnergrößen werden zwischen iPhones mit demselben KartenScan-Konto abgeglichen. Vorhandene Lagerplätze können beim ersten Abgleich übernommen werden.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.29.0-37.ipa",
+          "size": 3145712,
+          "minOSVersion": "17.0"
+        },
         {
           "version": "0.28.1",
           "buildVersion": "36",
