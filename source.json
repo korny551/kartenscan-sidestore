@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.4",
+          "buildVersion": "43",
+          "date": "2026-11-09T16:01:48Z",
+          "localizedDescription": "Der Online-Bestand zeigt die Anzahl der Angebote und die Summe ihrer Exemplare nebeneinander. Bei einer Suche zählen beide Angaben die angezeigten Treffer.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.4-43.ipa",
+          "size": 3306367,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.3",
           "buildVersion": "42",
           "date": "2026-11-09T14:49:13Z",
