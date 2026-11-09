@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.3",
+          "buildVersion": "42",
+          "date": "2026-11-09T14:49:13Z",
+          "localizedDescription": "Behebt den Bestandsabgleich für die normale Cardmarket-Übersicht. Der Standardwert „Poor“ beim Mindestzustand umfasst alle Karten und wird korrekt erkannt. Der schnelle und der vollständige Abgleich funktionieren damit auch bei dieser Voreinstellung.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.3-42.ipa",
+          "size": 3308032,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.2",
           "buildVersion": "41",
           "date": "2026-11-09T14:28:24Z",
