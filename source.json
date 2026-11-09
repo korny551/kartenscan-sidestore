@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.1",
+          "buildVersion": "40",
+          "date": "2026-11-09T13:58:28Z",
+          "localizedDescription": "- Größere Kameravorschau im Scanmodus. Der Ausrichthinweis und sein Symbol entfallen.\n- Beim Einsortieren ist die ganze Ordnerzeile antippbar. Die Zähler bleiben sichtbar. Die Meldung nach dem Löschen eines Ordners blendet sich aus.\n- Der Druckknopf sitzt mittig unter der Etikettenvorschau und seine Beschriftung bekommt ausreichend Platz.\n- Listen werden beim Herunterziehen gezielter aktualisiert. Bereits geladene Daten bleiben dabei sichtbar.\n- Wenn Cardmarket beim Öffnen einer Bestellung eine Sicherheitsprüfung verlangt, erscheint sie in KartenScan. Danach lädt die Bestellung automatisch weiter.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.1-40.ipa",
+          "size": 3294653,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.0",
           "buildVersion": "39",
           "date": "2026-11-09T13:17:55Z",
