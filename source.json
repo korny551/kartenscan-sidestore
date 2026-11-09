@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.7",
+          "buildVersion": "46",
+          "date": "2026-11-09T18:41:12Z",
+          "localizedDescription": "Sobald der aktuelle Stapel mindestens eine verkaufsfertige Karte enthält, steht unter den Vergleichspreisen auf der Scannen-Startseite „Angebotsübersicht öffnen“. Dort siehst du wie bisher Stückzahlen und Preise vor dem Veröffentlichen. Offene Karten kannst du vorab prüfen oder beim Veröffentlichen überspringen.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.7-46.ipa",
+          "size": 3417474,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.6",
           "buildVersion": "45",
           "date": "2026-11-09T18:20:58Z",
