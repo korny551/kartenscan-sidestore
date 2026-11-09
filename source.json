@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.6",
+          "buildVersion": "45",
+          "date": "2026-11-09T18:20:58Z",
+          "localizedDescription": "Nach der Cardmarket-Bestätigung siehst du für die neu veröffentlichten Karten Ordner, Seite und Fach. Bestätige das Einlegen in der App. Offene Karten findest du später im Lager wieder.\nDie Absenderadresse steht größer, einzeilig und unterstrichen auf dem Etikett. Vorname, Nachname, Straße mit Hausnummer, PLZ und Ort haben eigene Felder. Auf dem Etikett wird der Vorname auf den Anfangsbuchstaben mit Punkt gekürzt.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.6-45.ipa",
+          "size": 3413335,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.5",
           "buildVersion": "44",
           "date": "2026-11-09T17:45:16Z",
