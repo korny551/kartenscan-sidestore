@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.27.0",
+          "buildVersion": "33",
+          "date": "2026-11-09T08:36:18Z",
+          "localizedDescription": "- Nachrichten sind ein eigener Tab. Der Posteingang öffnet direkt und zeigt ungelesene Chats mit einer Zahl am Tab an.\n- KartenScan nutzt für Nachrichten, Versand und Verkauf dieselbe Cardmarket-Anmeldung und unterscheidet fehlende Kontoinfos von einer abgelaufenen Sitzung.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.27.0-33.ipa",
+          "size": 2692828,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.26.0",
           "buildVersion": "32",
           "date": "2026-11-09T08:12:53Z",
