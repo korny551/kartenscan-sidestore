@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.26.0",
+          "buildVersion": "32",
+          "date": "2026-11-09T08:12:53Z",
+          "localizedDescription": "- Versand aus KartenScan bestätigen. Sendungsnummern werden übernommen, wenn Cardmarket das passende Feld im Formular anbietet.\n- Cardmarket-Nachrichten in der App lesen und beantworten. Antworten und Versand werden nach dem Übermitteln geprüft.\n- Adressetiketten mit 2,5 mm Rand und größtmöglicher lesbarer Schrift je Adresse, ohne Zeilenumbruch.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.26.0-32.ipa",
+          "size": 2675074,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.25.0",
           "buildVersion": "31",
           "date": "2026-11-08T22:45:07Z",
