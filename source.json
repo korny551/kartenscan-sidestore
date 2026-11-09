@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.2",
+          "buildVersion": "41",
+          "date": "2026-11-09T14:28:24Z",
+          "localizedDescription": "- Der gespeicherte Online-Bestand bleibt sichtbar. Beim Aktualisieren prüft KartenScan die Stückzahlen je Ausgabe und lädt geänderte Ausgaben neu.\n- Ein vollständiger Bestandsabgleich bleibt verfügbar, auch für Preis- oder Angebotsänderungen bei gleicher Stückzahl.\n- Herunterziehen aktualisiert gezielt die geöffnete Ansicht. Der Posteingang lädt zuerst die neueste Seite. Ältere Gespräche lassen sich bei Bedarf nachladen.\n- Der mittige Button „Etikett drucken“ kommt ohne Druckersymbol aus und sieht beim erneuten Drucken gleich aus.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.2-41.ipa",
+          "size": 3310835,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.1",
           "buildVersion": "40",
           "date": "2026-11-09T13:58:28Z",
