@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.0",
+          "buildVersion": "39",
+          "date": "2026-11-09T13:17:55Z",
+          "localizedDescription": "- Neue Navigation mit Scannen, Verkauf und Nachrichten sowie einheitlichem Zahnrad. Listen durch Herunterziehen aktualisieren.\n- Die Kamera arbeitet im Halterbetrieb. Den Fokus direkt an der Vorschau sperren. Zoom, Belichtung, Scanrahmen und Dauerlicht stehen im Kameramenü.\n- Unter Verkauf → Lagerplätze Ordner anlegen und bearbeiten. Beim Einsortieren einen Ordner oder automatisch freie Fächer wählen. Der Farbkatalog lädt im Hintergrund.\n- Beim Löschen eines Ordners wählst du, ob die Karten online bleiben oder die zugehörigen Angebotsmengen nach Bestandsprüfung entfernt werden.\n- Der Druckknopf steht direkt unter der Etikettenvorschau, gefolgt von Länge, Breite und Ausrichtung. Den Drucker verwaltest du in den Einstellungen.\n- Verbesserte automatische Cardmarket-Anmeldung. Die E-Mail-Bestätigung nimmt einen sechsstelligen Code an.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.0-39.ipa",
+          "size": 3243454,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.29.1",
           "buildVersion": "38",
           "date": "2026-11-09T11:15:51Z",
