@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.8",
+          "buildVersion": "47",
+          "date": "2026-11-13T13:26:51Z",
+          "localizedDescription": "Den Online-Bestand kannst du jetzt mit der Kamera einsortieren. Scanne bis zu 18 Positionen mit jeweils höchstens drei identischen Karten. Vier gleiche Karten ergeben zwei Positionen, sieben ergeben drei.\nDie Erkennung und der Abgleich mit deinem Bestand laufen während des Scannens. Danach zeigt die App Ordner, Seite und Fach nacheinander zum Bestätigen. Unklare Karten lassen sich prüfen oder überspringen. Der Durchgang wird für später gespeichert.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.8-47.ipa",
+          "size": 3633853,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.7",
           "buildVersion": "46",
           "date": "2026-11-09T18:41:12Z",
