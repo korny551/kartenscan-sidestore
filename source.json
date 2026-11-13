@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.12",
+          "buildVersion": "51",
+          "date": "2026-11-13T19:41:07Z",
+          "localizedDescription": "• Weitere Karten scannen, während vorherige Aufnahmen im Hintergrund erkannt und mit dem Online-Bestand abgeglichen werden.\n• Verbesserte Aufnahmequalität und automatische Prüfung einer geeigneten Nahaufnahmekamera auf unterstützten iPhones. Gesperrter Fokus bleibt erhalten.\n• Aufnahmen warten auf stabilen Autofokus und brauchbare Schrift. Die Kameravorschau behält beim Erfassen ihre Größe.\n• Verbesserte Erkennung von Set-Kürzeln mit Punkt oder Bindestrich, angehängten Sprachkürzeln und Sammlernummern älterer Karten.\n• Brauchbare Katalogtreffer bleiben bei fehlgeschlagenen Zusatzabfragen erhalten. Identische laufende Abfragen werden zusammengefasst.\n• Wartende Karten und laufender Prüfschritt werden deutlicher angezeigt. Eine manuelle Druckauswahl erscheint sofort und wird anschließend geprüft.\n• Gespeicherte offene Fehlversuche werden einmal erneut geprüft. Bereits eingelegte und zurückgestellte Karten bleiben erhalten.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.12-51.ipa",
+          "size": 3859484,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.11",
           "buildVersion": "50",
           "date": "2026-11-13T16:02:40Z",
