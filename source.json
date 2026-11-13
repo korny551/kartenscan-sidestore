@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.13",
+          "buildVersion": "52",
+          "date": "2026-11-13T21:02:55Z",
+          "localizedDescription": "• Wieder größere Kameravorschau: Status auf dem Kamerabild und „Einsortieren“ in der vorhandenen Bedienzeile.\n• Bei freiem Fokus wird jede neue Karte gezielt scharfgestellt. Gesperrter Fokus behält die bisherigen Bewegungs- und Handprüfungen ohne zusätzliche Schärfesperre.\n• Verbesserte Nummernerkennung aus drei echten Kamerabildern und einem gezielten Nummernausschnitt. Weitere Karten lassen sich während der Auswertung scannen.\n• „Ausgabe wählen“ zeigt sofort die Vorschläge mit Set, Sammlernummer und Sprache. Nach der Auswahl geht es zurück zur passenden Lageradresse.\n• Ordner, Seite, Fach und Stückzahl sind größer dargestellt; „Einsortiert“ und „Überspringen“ bleiben unten erreichbar.\n• Erledigte Positionen wandern nach unten. Die letzte neue Einlagerung lässt sich kurz rückgängig machen.\n• „Neu scannen“ startet nach vollständigem Einsortieren ohne zweite Bestätigung. Bei zurückgestellten Karten bleibt die Rückfrage erhalten.\n• Die Nummerndiagnose und auf Wunsch die zusätzlichen Aufnahmen sind im Diagnose-Export enthalten.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.13-52.ipa",
+          "size": 3953080,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.12",
           "buildVersion": "51",
           "date": "2026-11-13T19:41:07Z",
