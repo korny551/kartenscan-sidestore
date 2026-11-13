@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.11",
+          "buildVersion": "50",
+          "date": "2026-11-13T16:02:40Z",
+          "localizedDescription": "Vorhandene Karten werden beim Einsortieren per Scan jetzt über korrekt eingelesene Cardmarket-Produktnummern zugeordnet. Ältere Bestandsdaten werden dafür einmal vollständig neu geprüft. Bei widersprüchlichen Lesungen wird der untere Kartenrand gezielt erneut gelesen und mit dem Kartenbild abgeglichen. Unklare Ausgaben bleiben zur Prüfung offen. Auch gespeicherte Aufnahmen lassen sich erneut erkennen. Unter Karte prüfen können die gelesenen Angaben aufgeklappt werden; fehlende Produktnummern werden von echten Bestandsabweichungen unterschieden.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.11-50.ipa",
+          "size": 3808639,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.10",
           "buildVersion": "49",
           "date": "2026-11-13T15:02:32Z",
