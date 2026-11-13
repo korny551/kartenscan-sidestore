@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.10",
+          "buildVersion": "49",
+          "date": "2026-11-13T15:02:32Z",
+          "localizedDescription": "Der Bestandsabgleich erkennt jetzt überlappende Cardmarket-Seiten. Erscheint dasselbe Angebot auf mehreren Seiten, wird die betroffene Ausgabe einmal mit umgekehrter Namenssortierung vollständig neu gelesen. Der Bestand wird erst bestätigt, wenn alle Angebots-IDs eindeutig sind und die erwartete Stückzahl stimmt. Bereits geprüfte Ausgaben bleiben gespeichert. Fehlerdetails nennen die tatsächlich geladene Seite und den konkreten Grund.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.10-49.ipa",
+          "size": 3756345,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.9",
           "buildVersion": "48",
           "date": "2026-11-13T14:20:38Z",
