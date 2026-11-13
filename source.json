@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.9",
+          "buildVersion": "48",
+          "date": "2026-11-13T14:20:38Z",
+          "localizedDescription": "Der vollständige Bestandsabgleich speichert geprüfte Ausgaben und kann nach einem Abbruch fortgesetzt werden. Veränderte oder ältere Zwischenstände werden erneut geprüft. Fehler erscheinen direkt beim Einsortieren per Scan. Ein Schnellabgleich sperrt einen noch aktuellen bestätigten Bestand nicht erneut.\nUnter Nachrichten siehst du jetzt erhaltene Verkäuferbewertungen mit Käufer, Datum, Einzelbewertungen und Kommentar. Neue Bewertungen zählen zusammen mit ungelesenen Chats bei der Nachrichten-Zahl. Der Abruf startet beim Öffnen der App. Erst beim Öffnen eines Bewertungseintrags wird er als gelesen markiert.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.9-48.ipa",
+          "size": 3747251,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.8",
           "buildVersion": "47",
           "date": "2026-11-13T13:26:51Z",
