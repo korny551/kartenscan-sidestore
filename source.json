@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.15",
+          "buildVersion": "54",
+          "date": "2026-11-14T18:46:01Z",
+          "localizedDescription": "Neu in KartenScan 0.30.15:\n• Gespeicherte Anmeldungen mit gemeinsamer Gerätefreigabe zuverlässiger wiederherstellen.\n• Bestand per Scan sofort starten: nur gescannte Ausgaben im Hintergrund prüfen und dabei weiter scannen.\n• „Jetzt einsortieren“ als Button unter der unverändert großen Kamera.\n• Deutsch/Englisch mit lesbarem Regeltext und mehreren Aufnahmen besser unterscheiden.\n• Gedruckte Hände im Kartenmotiv besser von echter Abdeckung unterscheiden.\n• Guthaben unabhängig von vollständigen Bestandsseiten abrufen.\n• Sicherheitsprüfungen sichtbar in der App öffnen, Zwischenstände erhalten und Lesevorgänge fortsetzen.\n• Genaue Ausgabe, Sprache, Zustand, Oberfläche und Mengen beim Einsortieren gezielt prüfen.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.15-54.ipa",
+          "size": 4163662,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.14",
           "buildVersion": "53",
           "date": "2026-11-14T17:01:34Z",
