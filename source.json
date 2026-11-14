@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.16",
+          "buildVersion": "55",
+          "date": "2026-11-14T21:22:03Z",
+          "localizedDescription": "Neu in KartenScan 0.30.16:\n• Guthaben mit dem echten Cardmarket-Benutzernamen prüfen und nach fertiger Anmeldung automatisch laden.\n• Guthaben beim Herunterziehen auf Verkauf aktualisieren und konkrete Abruffehler anzeigen.\n• Ruhige Verbindungsanzeige während der gesamten automatischen Anmeldung, ohne kurz eingeblendetes Formular.\n• Unterbrochene Bestands- und Bestelldaten nach Rückkehr zur App und nach einer Sicherheitsprüfung gezielt weiterladen.\n• Bereits erkannte Karten beim Einsortieren ohne erneute Aufnahme weiterprüfen; weitere Karten lassen sich während der Erkennung scannen.\n• Eine gemeinsame Sicherheitsanzeige für Bestellungen und Versand mit anschließender Statusprüfung.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.16-55.ipa",
+          "size": 4168631,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.15",
           "buildVersion": "54",
           "date": "2026-11-14T18:46:01Z",
