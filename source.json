@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.14",
+          "buildVersion": "53",
+          "date": "2026-11-14T17:01:34Z",
+          "localizedDescription": "• Einsortieren zuverlässiger: bekannte Kartendaten werden wiederverwendet und vorübergehende Abruffehler automatisch begrenzt erneut geprüft.\n• Weitere Karten lassen sich scannen, während Erkennung und Produktnummernprüfung im Hintergrund laufen.\n• „Jetzt einsortieren“ beendet den Scandurchgang auch vor 18 Positionen. Das große Kamerabild bleibt erhalten.\n• Deutliche Anzeige „Einzulegende Menge“ mit 1–3 Karten, großem Lagerplatz und „Einlegen bestätigen“.\n• Unklare Karten direkt auswählen, erledigte Positionen unten und anschließend mit einem Tipp neue Karten scannen.\n• Aktuelles Cardmarket-Guthaben oben auf „Verkauf“ in Grün, mit Zeitpunkt der letzten Prüfung.\n• Nachrichten mit den Registern „Chats“ und „Bewertungen“, getrennten Zählern und Chats als Startansicht.\n• Gemeinsame Face-ID-Freigabe für die gespeicherten KartenScan- und Cardmarket-Zugänge verbessert. Die Einstellung zur automatischen Anmeldung bleibt erhalten.\n• Nach einer selbst bestätigten Sicherheitsprüfung prüft die App den Zugang automatisch weiter. Die menschliche Prüfung wird nicht umgangen.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.14-53.ipa",
+          "size": 4041508,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.13",
           "buildVersion": "52",
           "date": "2026-11-13T21:02:55Z",
