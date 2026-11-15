@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.19",
-          "buildVersion": "58",
-          "date": "2026-11-15T03:01:04Z",
-          "localizedDescription": "Neu in KartenScan 0.30.19:\n\n• Scans erst nach erfolgreichem Speichern bestätigen; bei Speicherfehlern dieselbe Karte erneut scannen können.\n• Weitere Karten scannen, während Erkennung und Preisabfragen im Hintergrund weiterlaufen.\n• Kleinere, zwischengespeicherte Vorschaubilder und weniger wiederholte Berechnungen beim Einsortieren.\n• Weniger unnötige Speicherzugriffe und getrennte Aktualisierungen für Scannen, Verkauf und Nachrichten.\n• Fokus und „Jetzt einsortieren“ passen sich großer Schrift besser an.\n• Gemeinsame Erkennung von Cardmarket-Sicherheitsprüfungen in App und Safari: Bereits abgeschlossene Prüfungen gezielter erkennen.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.19-58.ipa",
-          "size": 4301441,
+          "version": "0.30.20",
+          "buildVersion": "59",
+          "date": "2026-11-15T05:30:38Z",
+          "localizedDescription": "Neu in KartenScan 0.30.20:\n\n• Cardmarket-Bestätigungsfeld nach dem Laden sichtbar ausrichten.\n• Prüfbereich an den tatsächlich sichtbaren Platz anpassen, damit das Feld nicht abgeschnitten wird.\n• Später geladene Prüffelder und Größenänderungen berücksichtigen, ohne ständige Neuladungen oder wiederholtes Scrollen.\n• Kamera und weitere Scans bleiben während der Sicherheitsprüfung bedienbar; bei Platzmangel lässt sich der Prüfbereich vergrößern.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.20-59.ipa",
+          "size": 4322576,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.19",
-              "buildVersion": "58",
-              "date": "2026-11-15T03:01:04Z",
-              "localizedDescription": "Neu in KartenScan 0.30.19:\n\n• Scans erst nach erfolgreichem Speichern bestätigen; bei Speicherfehlern dieselbe Karte erneut scannen können.\n• Weitere Karten scannen, während Erkennung und Preisabfragen im Hintergrund weiterlaufen.\n• Kleinere, zwischengespeicherte Vorschaubilder und weniger wiederholte Berechnungen beim Einsortieren.\n• Weniger unnötige Speicherzugriffe und getrennte Aktualisierungen für Scannen, Verkauf und Nachrichten.\n• Fokus und „Jetzt einsortieren“ passen sich großer Schrift besser an.\n• Gemeinsame Erkennung von Cardmarket-Sicherheitsprüfungen in App und Safari: Bereits abgeschlossene Prüfungen gezielter erkennen.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.19-58.ipa",
-              "size": 4301441,
+              "version": "0.30.20",
+              "buildVersion": "59",
+              "date": "2026-11-15T05:30:38Z",
+              "localizedDescription": "Neu in KartenScan 0.30.20:\n\n• Cardmarket-Bestätigungsfeld nach dem Laden sichtbar ausrichten.\n• Prüfbereich an den tatsächlich sichtbaren Platz anpassen, damit das Feld nicht abgeschnitten wird.\n• Später geladene Prüffelder und Größenänderungen berücksichtigen, ohne ständige Neuladungen oder wiederholtes Scrollen.\n• Kamera und weitere Scans bleiben während der Sicherheitsprüfung bedienbar; bei Platzmangel lässt sich der Prüfbereich vergrößern.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.20-59.ipa",
+              "size": 4322576,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.19",
-      "versionDate": "2026-11-15T03:01:04Z",
-      "versionDescription": "Neu in KartenScan 0.30.19:\n\n• Scans erst nach erfolgreichem Speichern bestätigen; bei Speicherfehlern dieselbe Karte erneut scannen können.\n• Weitere Karten scannen, während Erkennung und Preisabfragen im Hintergrund weiterlaufen.\n• Kleinere, zwischengespeicherte Vorschaubilder und weniger wiederholte Berechnungen beim Einsortieren.\n• Weniger unnötige Speicherzugriffe und getrennte Aktualisierungen für Scannen, Verkauf und Nachrichten.\n• Fokus und „Jetzt einsortieren“ passen sich großer Schrift besser an.\n• Gemeinsame Erkennung von Cardmarket-Sicherheitsprüfungen in App und Safari: Bereits abgeschlossene Prüfungen gezielter erkennen.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.19-58.ipa",
-      "size": 4301441,
+      "version": "0.30.20",
+      "versionDate": "2026-11-15T05:30:38Z",
+      "versionDescription": "Neu in KartenScan 0.30.20:\n\n• Cardmarket-Bestätigungsfeld nach dem Laden sichtbar ausrichten.\n• Prüfbereich an den tatsächlich sichtbaren Platz anpassen, damit das Feld nicht abgeschnitten wird.\n• Später geladene Prüffelder und Größenänderungen berücksichtigen, ohne ständige Neuladungen oder wiederholtes Scrollen.\n• Kamera und weitere Scans bleiben während der Sicherheitsprüfung bedienbar; bei Platzmangel lässt sich der Prüfbereich vergrößern.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.20-59.ipa",
+      "size": 4322576,
       "minOSVersion": "17.0"
     }
   ]
