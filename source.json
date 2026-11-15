@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.18",
+          "buildVersion": "57",
+          "date": "2026-11-15T01:43:36Z",
+          "localizedDescription": "Neu in KartenScan 0.30.18:\n\n• Automatische Cardmarket-Prüfungen zunächst ohne störende Einblendung abwarten; Kamera und App bleiben bedienbar.\n• Kompakter Hinweis bei erkennbar nötiger Bestätigung. Unklare längere Prüfungen separat als „Prüfung ansehen“ anzeigen.\n• Weniger wiederholte Sprachberechnungen und Speicherzugriffe bei der Kartenerkennung.\n• Doppelte erste Seiten beim Bestandsabgleich vermeiden und unterbrochene Abfragen gezielter fortsetzen.\n• Prüfbereich ohne dauernde erneute Layoutberechnung anzeigen.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.18-57.ipa",
+          "size": 4221975,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.17",
           "buildVersion": "56",
           "date": "2026-11-15T00:36:04Z",
