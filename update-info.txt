@@ -1,0 +1,5 @@
+Neu in KartenScan 0.30.21:
+• Notwendige Cardmarket-Bestätigungen öffnen sich automatisch als große Seite in der App.
+• Beim Scannen für Verkauf und Bestand wartet die Bestätigung bis zum Ende des Scandurchgangs. Aufnahmen werden weiter gespeichert und erkannt.
+• Fehlerhafte 404-Weiterleitungen und hängen bleibende Freigabeprüfungen behoben.
+• Lagerplätze bleiben bei einer Sicherheitsprüfung sichtbar. Das Bestätigen wartet mit verständlichem Hinweis.

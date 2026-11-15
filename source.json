@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.20",
-          "buildVersion": "59",
-          "date": "2026-11-15T05:30:38Z",
-          "localizedDescription": "Neu in KartenScan 0.30.20:\n\n• Cardmarket-Bestätigungsfeld nach dem Laden sichtbar ausrichten.\n• Prüfbereich an den tatsächlich sichtbaren Platz anpassen, damit das Feld nicht abgeschnitten wird.\n• Später geladene Prüffelder und Größenänderungen berücksichtigen, ohne ständige Neuladungen oder wiederholtes Scrollen.\n• Kamera und weitere Scans bleiben während der Sicherheitsprüfung bedienbar; bei Platzmangel lässt sich der Prüfbereich vergrößern.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.20-59.ipa",
-          "size": 4322576,
+          "version": "0.30.21",
+          "buildVersion": "60",
+          "date": "2026-11-15T10:38:53Z",
+          "localizedDescription": "Neu in KartenScan 0.30.21:\n• Notwendige Cardmarket-Bestätigungen öffnen sich automatisch als große Seite in der App.\n• Beim Scannen für Verkauf und Bestand wartet die Bestätigung bis zum Ende des Scandurchgangs. Aufnahmen werden weiter gespeichert und erkannt.\n• Fehlerhafte 404-Weiterleitungen und hängen bleibende Freigabeprüfungen behoben.\n• Lagerplätze bleiben bei einer Sicherheitsprüfung sichtbar. Das Bestätigen wartet mit verständlichem Hinweis.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.21-60.ipa",
+          "size": 4325148,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.20",
-              "buildVersion": "59",
-              "date": "2026-11-15T05:30:38Z",
-              "localizedDescription": "Neu in KartenScan 0.30.20:\n\n• Cardmarket-Bestätigungsfeld nach dem Laden sichtbar ausrichten.\n• Prüfbereich an den tatsächlich sichtbaren Platz anpassen, damit das Feld nicht abgeschnitten wird.\n• Später geladene Prüffelder und Größenänderungen berücksichtigen, ohne ständige Neuladungen oder wiederholtes Scrollen.\n• Kamera und weitere Scans bleiben während der Sicherheitsprüfung bedienbar; bei Platzmangel lässt sich der Prüfbereich vergrößern.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.20-59.ipa",
-              "size": 4322576,
+              "version": "0.30.21",
+              "buildVersion": "60",
+              "date": "2026-11-15T10:38:53Z",
+              "localizedDescription": "Neu in KartenScan 0.30.21:\n• Notwendige Cardmarket-Bestätigungen öffnen sich automatisch als große Seite in der App.\n• Beim Scannen für Verkauf und Bestand wartet die Bestätigung bis zum Ende des Scandurchgangs. Aufnahmen werden weiter gespeichert und erkannt.\n• Fehlerhafte 404-Weiterleitungen und hängen bleibende Freigabeprüfungen behoben.\n• Lagerplätze bleiben bei einer Sicherheitsprüfung sichtbar. Das Bestätigen wartet mit verständlichem Hinweis.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.21-60.ipa",
+              "size": 4325148,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.20",
-      "versionDate": "2026-11-15T05:30:38Z",
-      "versionDescription": "Neu in KartenScan 0.30.20:\n\n• Cardmarket-Bestätigungsfeld nach dem Laden sichtbar ausrichten.\n• Prüfbereich an den tatsächlich sichtbaren Platz anpassen, damit das Feld nicht abgeschnitten wird.\n• Später geladene Prüffelder und Größenänderungen berücksichtigen, ohne ständige Neuladungen oder wiederholtes Scrollen.\n• Kamera und weitere Scans bleiben während der Sicherheitsprüfung bedienbar; bei Platzmangel lässt sich der Prüfbereich vergrößern.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.20-59.ipa",
-      "size": 4322576,
+      "version": "0.30.21",
+      "versionDate": "2026-11-15T10:38:53Z",
+      "versionDescription": "Neu in KartenScan 0.30.21:\n• Notwendige Cardmarket-Bestätigungen öffnen sich automatisch als große Seite in der App.\n• Beim Scannen für Verkauf und Bestand wartet die Bestätigung bis zum Ende des Scandurchgangs. Aufnahmen werden weiter gespeichert und erkannt.\n• Fehlerhafte 404-Weiterleitungen und hängen bleibende Freigabeprüfungen behoben.\n• Lagerplätze bleiben bei einer Sicherheitsprüfung sichtbar. Das Bestätigen wartet mit verständlichem Hinweis.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.21-60.ipa",
+      "size": 4325148,
       "minOSVersion": "17.0"
     }
   ]
