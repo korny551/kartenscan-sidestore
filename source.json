@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.21",
-          "buildVersion": "60",
-          "date": "2026-11-15T10:38:53Z",
-          "localizedDescription": "Neu in KartenScan 0.30.21:\n• Notwendige Cardmarket-Bestätigungen öffnen sich automatisch als große Seite in der App.\n• Beim Scannen für Verkauf und Bestand wartet die Bestätigung bis zum Ende des Scandurchgangs. Aufnahmen werden weiter gespeichert und erkannt.\n• Fehlerhafte 404-Weiterleitungen und hängen bleibende Freigabeprüfungen behoben.\n• Lagerplätze bleiben bei einer Sicherheitsprüfung sichtbar. Das Bestätigen wartet mit verständlichem Hinweis.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.21-60.ipa",
-          "size": 4325148,
+          "version": "0.30.22",
+          "buildVersion": "61",
+          "date": "2026-11-15T17:37:37Z",
+          "localizedDescription": "Neu in KartenScan 0.30.22 (61):\n• Verbesserte Unterscheidung zwischen echten Händen und Händen auf Kartenbildern.\n• Exakte Set-/Nummernsuche trotz fehlendem deutschem Katalogeintrag, unter anderem ELD 297.\n• Passende Teilmengen einsortieren und zusätzliche Karten deutlich getrennt zurücklegen oder als Verkaufsentwurf übernehmen.\n• Gleiche große Einlegeansicht für Bestand und frisch veröffentlichte Karten.\n• Direkt „Als versendet markieren“ mit Sendungsnummer und abschließender Bestätigung.\n• Mittige Hauptschaltflächen und Texte, auch bei großer Schrift.\nDas Scannen kann während der Erkennung weiterlaufen.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.22-61.ipa",
+          "size": 4432879,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.21",
-              "buildVersion": "60",
-              "date": "2026-11-15T10:38:53Z",
-              "localizedDescription": "Neu in KartenScan 0.30.21:\n• Notwendige Cardmarket-Bestätigungen öffnen sich automatisch als große Seite in der App.\n• Beim Scannen für Verkauf und Bestand wartet die Bestätigung bis zum Ende des Scandurchgangs. Aufnahmen werden weiter gespeichert und erkannt.\n• Fehlerhafte 404-Weiterleitungen und hängen bleibende Freigabeprüfungen behoben.\n• Lagerplätze bleiben bei einer Sicherheitsprüfung sichtbar. Das Bestätigen wartet mit verständlichem Hinweis.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.21-60.ipa",
-              "size": 4325148,
+              "version": "0.30.22",
+              "buildVersion": "61",
+              "date": "2026-11-15T17:37:37Z",
+              "localizedDescription": "Neu in KartenScan 0.30.22 (61):\n• Verbesserte Unterscheidung zwischen echten Händen und Händen auf Kartenbildern.\n• Exakte Set-/Nummernsuche trotz fehlendem deutschem Katalogeintrag, unter anderem ELD 297.\n• Passende Teilmengen einsortieren und zusätzliche Karten deutlich getrennt zurücklegen oder als Verkaufsentwurf übernehmen.\n• Gleiche große Einlegeansicht für Bestand und frisch veröffentlichte Karten.\n• Direkt „Als versendet markieren“ mit Sendungsnummer und abschließender Bestätigung.\n• Mittige Hauptschaltflächen und Texte, auch bei großer Schrift.\nDas Scannen kann während der Erkennung weiterlaufen.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.22-61.ipa",
+              "size": 4432879,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.21",
-      "versionDate": "2026-11-15T10:38:53Z",
-      "versionDescription": "Neu in KartenScan 0.30.21:\n• Notwendige Cardmarket-Bestätigungen öffnen sich automatisch als große Seite in der App.\n• Beim Scannen für Verkauf und Bestand wartet die Bestätigung bis zum Ende des Scandurchgangs. Aufnahmen werden weiter gespeichert und erkannt.\n• Fehlerhafte 404-Weiterleitungen und hängen bleibende Freigabeprüfungen behoben.\n• Lagerplätze bleiben bei einer Sicherheitsprüfung sichtbar. Das Bestätigen wartet mit verständlichem Hinweis.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.21-60.ipa",
-      "size": 4325148,
+      "version": "0.30.22",
+      "versionDate": "2026-11-15T17:37:37Z",
+      "versionDescription": "Neu in KartenScan 0.30.22 (61):\n• Verbesserte Unterscheidung zwischen echten Händen und Händen auf Kartenbildern.\n• Exakte Set-/Nummernsuche trotz fehlendem deutschem Katalogeintrag, unter anderem ELD 297.\n• Passende Teilmengen einsortieren und zusätzliche Karten deutlich getrennt zurücklegen oder als Verkaufsentwurf übernehmen.\n• Gleiche große Einlegeansicht für Bestand und frisch veröffentlichte Karten.\n• Direkt „Als versendet markieren“ mit Sendungsnummer und abschließender Bestätigung.\n• Mittige Hauptschaltflächen und Texte, auch bei großer Schrift.\nDas Scannen kann während der Erkennung weiterlaufen.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.22-61.ipa",
+      "size": 4432879,
       "minOSVersion": "17.0"
     }
   ]
