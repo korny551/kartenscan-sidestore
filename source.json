@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.22",
-          "buildVersion": "61",
-          "date": "2026-11-15T17:37:37Z",
-          "localizedDescription": "Neu in KartenScan 0.30.22 (61):\n• Verbesserte Unterscheidung zwischen echten Händen und Händen auf Kartenbildern.\n• Exakte Set-/Nummernsuche trotz fehlendem deutschem Katalogeintrag, unter anderem ELD 297.\n• Passende Teilmengen einsortieren und zusätzliche Karten deutlich getrennt zurücklegen oder als Verkaufsentwurf übernehmen.\n• Gleiche große Einlegeansicht für Bestand und frisch veröffentlichte Karten.\n• Direkt „Als versendet markieren“ mit Sendungsnummer und abschließender Bestätigung.\n• Mittige Hauptschaltflächen und Texte, auch bei großer Schrift.\nDas Scannen kann während der Erkennung weiterlaufen.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.22-61.ipa",
-          "size": 4432879,
+          "version": "0.30.23",
+          "buildVersion": "62",
+          "date": "2026-11-15T19:38:43Z",
+          "localizedDescription": "Neu in KartenScan 0.30.23 (62):\n• Gleicher Aufbau: Scannen läuft während der Erkennung weiter.\n• Nötige Cardmarket-Bestätigungen früher erkennen; automatische Prüfungen bleiben still.\n• Gemeinsame Abfrageprioritäten und Wartezeiten bei Abfragelimits.\n• Anmeldung übernimmt bereits geprüfte Kontodaten.\n• Einzelne Angebotsänderungen gezielt statt mit dem gesamten Bestand prüfen.\n• Getrennte OCR-/Katalogschritte und faire Nachprüfung ungeklärter Karten.\n• Weniger Speicher- und Lagerberechnungen auf der Oberfläche; unveränderte Cloudstände schneller prüfen.\n• Detailbilder asynchron laden, Etikettenvorlagen wiederverwenden und Druckkompression im Hintergrund.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.23-62.ipa",
+          "size": 4577075,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.22",
-              "buildVersion": "61",
-              "date": "2026-11-15T17:37:37Z",
-              "localizedDescription": "Neu in KartenScan 0.30.22 (61):\n• Verbesserte Unterscheidung zwischen echten Händen und Händen auf Kartenbildern.\n• Exakte Set-/Nummernsuche trotz fehlendem deutschem Katalogeintrag, unter anderem ELD 297.\n• Passende Teilmengen einsortieren und zusätzliche Karten deutlich getrennt zurücklegen oder als Verkaufsentwurf übernehmen.\n• Gleiche große Einlegeansicht für Bestand und frisch veröffentlichte Karten.\n• Direkt „Als versendet markieren“ mit Sendungsnummer und abschließender Bestätigung.\n• Mittige Hauptschaltflächen und Texte, auch bei großer Schrift.\nDas Scannen kann während der Erkennung weiterlaufen.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.22-61.ipa",
-              "size": 4432879,
+              "version": "0.30.23",
+              "buildVersion": "62",
+              "date": "2026-11-15T19:38:43Z",
+              "localizedDescription": "Neu in KartenScan 0.30.23 (62):\n• Gleicher Aufbau: Scannen läuft während der Erkennung weiter.\n• Nötige Cardmarket-Bestätigungen früher erkennen; automatische Prüfungen bleiben still.\n• Gemeinsame Abfrageprioritäten und Wartezeiten bei Abfragelimits.\n• Anmeldung übernimmt bereits geprüfte Kontodaten.\n• Einzelne Angebotsänderungen gezielt statt mit dem gesamten Bestand prüfen.\n• Getrennte OCR-/Katalogschritte und faire Nachprüfung ungeklärter Karten.\n• Weniger Speicher- und Lagerberechnungen auf der Oberfläche; unveränderte Cloudstände schneller prüfen.\n• Detailbilder asynchron laden, Etikettenvorlagen wiederverwenden und Druckkompression im Hintergrund.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.23-62.ipa",
+              "size": 4577075,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.22",
-      "versionDate": "2026-11-15T17:37:37Z",
-      "versionDescription": "Neu in KartenScan 0.30.22 (61):\n• Verbesserte Unterscheidung zwischen echten Händen und Händen auf Kartenbildern.\n• Exakte Set-/Nummernsuche trotz fehlendem deutschem Katalogeintrag, unter anderem ELD 297.\n• Passende Teilmengen einsortieren und zusätzliche Karten deutlich getrennt zurücklegen oder als Verkaufsentwurf übernehmen.\n• Gleiche große Einlegeansicht für Bestand und frisch veröffentlichte Karten.\n• Direkt „Als versendet markieren“ mit Sendungsnummer und abschließender Bestätigung.\n• Mittige Hauptschaltflächen und Texte, auch bei großer Schrift.\nDas Scannen kann während der Erkennung weiterlaufen.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.22-61.ipa",
-      "size": 4432879,
+      "version": "0.30.23",
+      "versionDate": "2026-11-15T19:38:43Z",
+      "versionDescription": "Neu in KartenScan 0.30.23 (62):\n• Gleicher Aufbau: Scannen läuft während der Erkennung weiter.\n• Nötige Cardmarket-Bestätigungen früher erkennen; automatische Prüfungen bleiben still.\n• Gemeinsame Abfrageprioritäten und Wartezeiten bei Abfragelimits.\n• Anmeldung übernimmt bereits geprüfte Kontodaten.\n• Einzelne Angebotsänderungen gezielt statt mit dem gesamten Bestand prüfen.\n• Getrennte OCR-/Katalogschritte und faire Nachprüfung ungeklärter Karten.\n• Weniger Speicher- und Lagerberechnungen auf der Oberfläche; unveränderte Cloudstände schneller prüfen.\n• Detailbilder asynchron laden, Etikettenvorlagen wiederverwenden und Druckkompression im Hintergrund.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.23-62.ipa",
+      "size": 4577075,
       "minOSVersion": "17.0"
     }
   ]

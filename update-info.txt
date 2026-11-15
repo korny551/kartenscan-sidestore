@@ -1,8 +1,9 @@
-Neu in KartenScan 0.30.22 (61):
-• Verbesserte Unterscheidung zwischen echten Händen und Händen auf Kartenbildern.
-• Exakte Set-/Nummernsuche trotz fehlendem deutschem Katalogeintrag, unter anderem ELD 297.
-• Passende Teilmengen einsortieren und zusätzliche Karten deutlich getrennt zurücklegen oder als Verkaufsentwurf übernehmen.
-• Gleiche große Einlegeansicht für Bestand und frisch veröffentlichte Karten.
-• Direkt „Als versendet markieren“ mit Sendungsnummer und abschließender Bestätigung.
-• Mittige Hauptschaltflächen und Texte, auch bei großer Schrift.
-Das Scannen kann während der Erkennung weiterlaufen.
+Neu in KartenScan 0.30.23 (62):
+• Gleicher Aufbau: Scannen läuft während der Erkennung weiter.
+• Nötige Cardmarket-Bestätigungen früher erkennen; automatische Prüfungen bleiben still.
+• Gemeinsame Abfrageprioritäten und Wartezeiten bei Abfragelimits.
+• Anmeldung übernimmt bereits geprüfte Kontodaten.
+• Einzelne Angebotsänderungen gezielt statt mit dem gesamten Bestand prüfen.
+• Getrennte OCR-/Katalogschritte und faire Nachprüfung ungeklärter Karten.
+• Weniger Speicher- und Lagerberechnungen auf der Oberfläche; unveränderte Cloudstände schneller prüfen.
+• Detailbilder asynchron laden, Etikettenvorlagen wiederverwenden und Druckkompression im Hintergrund.
