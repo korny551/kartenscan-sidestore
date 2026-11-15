@@ -20,6 +20,15 @@
       },
       "versions": [
         {
+          "version": "0.30.17",
+          "buildVersion": "56",
+          "date": "2026-11-15T00:36:04Z",
+          "localizedDescription": "Neu in KartenScan 0.30.17:\n\n• Cardmarket-Sicherheitsprüfung oben auf- und zuklappen, während die App bedienbar bleibt.\n• Kamera und Kartenerkennung laufen weiter; geschützte Online-Abfragen warten auf deine Bestätigung.\n• Prüfbereich bei Bedarf vergrößern, ohne die Cardmarket-Seite neu zu laden.\n• Gemeinsamer Prüfbereich auch in geöffneten Detailansichten.\n• Nach bestätigtem Zugriff schließt sich der Bereich automatisch und Leseabfragen werden fortgesetzt.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.17-56.ipa",
+          "size": 4204475,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "0.30.16",
           "buildVersion": "55",
           "date": "2026-11-14T21:22:03Z",
