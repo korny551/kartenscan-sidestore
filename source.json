@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.25",
-          "buildVersion": "64",
-          "date": "2026-11-16T14:15:28Z",
-          "localizedDescription": "Neu in KartenScan 0.30.25 (64):\n• KartenScan-Konto auf demselben iPhone wechseln.\n• Stapel, Scanbilder, Bestandsrunden, Lagerdaten und Cardmarket-Verbindungen bleiben je Konto getrennt.\n• Vorhandene Daten bleiben beim bisherigen Konto und werden beim Wechsel sicher gespeichert.\n• Absenderadressen und Druckstatus getrennt; verspätete Hintergrundantworten abgesichert.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.25-64.ipa",
-          "size": 4812429,
+          "version": "0.30.26",
+          "buildVersion": "65",
+          "date": "2026-11-16T16:14:59Z",
+          "localizedDescription": "Neu in KartenScan 0.30.26 (65):\n• Bestand einsortieren: Klare Mengen zeigen, wie viele Karten eingelegt und wie viele beiseitegelegt werden. Zusätzliche Exemplare landen nicht automatisch in einem Verkaufsentwurf.\n• Einsortieren folgt deinem Handstapel: Die zuletzt gescannte Karte kommt zuerst. Nur direkt nacheinander gescannte gleiche Karten werden zusammengefasst.\n• Benötigt Cardmarket eine manuelle Bestätigung, erscheint oben ein Hinweis. Erst Antippen öffnet die echte Prüfseite; dein vorheriger Stand bleibt erhalten.\n• Lagersuche nach Kartenname oder Sammlernummer ab dem ersten Zeichen – mit Ordner, Seite, Fach und Kartendetails.\n• Aufnahme und lokale Erkennung bleiben von Cardmarket-Wartezeiten getrennt. Deine Scans werden weiter gespeichert.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.26-65.ipa",
+          "size": 4858343,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.25",
-              "buildVersion": "64",
-              "date": "2026-11-16T14:15:28Z",
-              "localizedDescription": "Neu in KartenScan 0.30.25 (64):\n• KartenScan-Konto auf demselben iPhone wechseln.\n• Stapel, Scanbilder, Bestandsrunden, Lagerdaten und Cardmarket-Verbindungen bleiben je Konto getrennt.\n• Vorhandene Daten bleiben beim bisherigen Konto und werden beim Wechsel sicher gespeichert.\n• Absenderadressen und Druckstatus getrennt; verspätete Hintergrundantworten abgesichert.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.25-64.ipa",
-              "size": 4812429,
+              "version": "0.30.26",
+              "buildVersion": "65",
+              "date": "2026-11-16T16:14:59Z",
+              "localizedDescription": "Neu in KartenScan 0.30.26 (65):\n• Bestand einsortieren: Klare Mengen zeigen, wie viele Karten eingelegt und wie viele beiseitegelegt werden. Zusätzliche Exemplare landen nicht automatisch in einem Verkaufsentwurf.\n• Einsortieren folgt deinem Handstapel: Die zuletzt gescannte Karte kommt zuerst. Nur direkt nacheinander gescannte gleiche Karten werden zusammengefasst.\n• Benötigt Cardmarket eine manuelle Bestätigung, erscheint oben ein Hinweis. Erst Antippen öffnet die echte Prüfseite; dein vorheriger Stand bleibt erhalten.\n• Lagersuche nach Kartenname oder Sammlernummer ab dem ersten Zeichen – mit Ordner, Seite, Fach und Kartendetails.\n• Aufnahme und lokale Erkennung bleiben von Cardmarket-Wartezeiten getrennt. Deine Scans werden weiter gespeichert.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.26-65.ipa",
+              "size": 4858343,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.25",
-      "versionDate": "2026-11-16T14:15:28Z",
-      "versionDescription": "Neu in KartenScan 0.30.25 (64):\n• KartenScan-Konto auf demselben iPhone wechseln.\n• Stapel, Scanbilder, Bestandsrunden, Lagerdaten und Cardmarket-Verbindungen bleiben je Konto getrennt.\n• Vorhandene Daten bleiben beim bisherigen Konto und werden beim Wechsel sicher gespeichert.\n• Absenderadressen und Druckstatus getrennt; verspätete Hintergrundantworten abgesichert.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.25-64.ipa",
-      "size": 4812429,
+      "version": "0.30.26",
+      "versionDate": "2026-11-16T16:14:59Z",
+      "versionDescription": "Neu in KartenScan 0.30.26 (65):\n• Bestand einsortieren: Klare Mengen zeigen, wie viele Karten eingelegt und wie viele beiseitegelegt werden. Zusätzliche Exemplare landen nicht automatisch in einem Verkaufsentwurf.\n• Einsortieren folgt deinem Handstapel: Die zuletzt gescannte Karte kommt zuerst. Nur direkt nacheinander gescannte gleiche Karten werden zusammengefasst.\n• Benötigt Cardmarket eine manuelle Bestätigung, erscheint oben ein Hinweis. Erst Antippen öffnet die echte Prüfseite; dein vorheriger Stand bleibt erhalten.\n• Lagersuche nach Kartenname oder Sammlernummer ab dem ersten Zeichen – mit Ordner, Seite, Fach und Kartendetails.\n• Aufnahme und lokale Erkennung bleiben von Cardmarket-Wartezeiten getrennt. Deine Scans werden weiter gespeichert.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.26-65.ipa",
+      "size": 4858343,
       "minOSVersion": "17.0"
     }
   ]
