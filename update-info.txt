@@ -1,9 +1,9 @@
-Neu in KartenScan 0.30.23 (62):
-• Gleicher Aufbau: Scannen läuft während der Erkennung weiter.
-• Nötige Cardmarket-Bestätigungen früher erkennen; automatische Prüfungen bleiben still.
-• Gemeinsame Abfrageprioritäten und Wartezeiten bei Abfragelimits.
-• Anmeldung übernimmt bereits geprüfte Kontodaten.
-• Einzelne Angebotsänderungen gezielt statt mit dem gesamten Bestand prüfen.
-• Getrennte OCR-/Katalogschritte und faire Nachprüfung ungeklärter Karten.
-• Weniger Speicher- und Lagerberechnungen auf der Oberfläche; unveränderte Cloudstände schneller prüfen.
-• Detailbilder asynchron laden, Etikettenvorlagen wiederverwenden und Druckkompression im Hintergrund.
+Neu in KartenScan 0.30.24 (63):
+
+• Deutlicher Hinweis bei abgelaufener Cardmarket-Anmeldung; direkt über der aktuellen Seite wieder verbinden.
+• Scans und Zwischenstände bleiben erhalten; wartende Bestandsprüfungen werden nach erfolgreicher Anmeldung fortgesetzt.
+• Aufgeräumte Einstellungen mit fünf klaren Bereichen und direktem Diagnoseexport.
+• Ordner- und Seitenetiketten direkt aus dem Ordnermenü drucken.
+• Seiten wählen: alle, gerade, ungerade, neue oder einzelne Seiten. Bereits gedruckte Seiten bleiben erneut druckbar.
+• Große Beschriftung: „Magic: The Gathering“ und Ordnername; deutlich lesbare Seitennummern.
+• Erfolgreiche Drucke pro Ordner merken, neue Folien gezielt beschriften und unklare Druckabbrüche sicher behandeln.
