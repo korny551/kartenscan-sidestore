@@ -1,6 +1,7 @@
-Neu in KartenScan 0.30.26 (65):
-• Bestand einsortieren: Klare Mengen zeigen, wie viele Karten eingelegt und wie viele beiseitegelegt werden. Zusätzliche Exemplare landen nicht automatisch in einem Verkaufsentwurf.
-• Einsortieren folgt deinem Handstapel: Die zuletzt gescannte Karte kommt zuerst. Nur direkt nacheinander gescannte gleiche Karten werden zusammengefasst.
-• Benötigt Cardmarket eine manuelle Bestätigung, erscheint oben ein Hinweis. Erst Antippen öffnet die echte Prüfseite; dein vorheriger Stand bleibt erhalten.
-• Lagersuche nach Kartenname oder Sammlernummer ab dem ersten Zeichen – mit Ordner, Seite, Fach und Kartendetails.
-• Aufnahme und lokale Erkennung bleiben von Cardmarket-Wartezeiten getrennt. Deine Scans werden weiter gespeichert.
+Neu in KartenScan 0.30.27 (66):
+• Einheitliche Einlegeansicht ohne Scrollen: großes Kartenbild, deutliche Stückzahl und Lageradresse, feste Aktionen unten.
+• Einsortieren auch neuer Karten von der zuletzt gescannten bis zur ersten Karte; Rückgängig und Durchgang beenden mit Schutz bestätigter Lagerplätze.
+• Gedruckte Hände blockieren keine Aufnahme mehr. Bildruhe, Fokus, Schärfe und Kartenwechsel bleiben berücksichtigt; während der Erkennung kannst du weiter scannen.
+• Freie Fächer auf passenden Seiten und leere Seiten zwischen belegten Seiten werden bevorzugt, bis zu drei identische Karten je Fach.
+• Lagersuche ab Namens- oder Nummernanfang, führende Nullen gleichwertig und Nummern aufsteigend sortiert.
+• Warnung vor Veröffentlichung bei fehlendem Lagerplatz, mit Entscheidung zum Fortfahren.

@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.26",
-          "buildVersion": "65",
-          "date": "2026-11-16T16:14:59Z",
-          "localizedDescription": "Neu in KartenScan 0.30.26 (65):\n• Bestand einsortieren: Klare Mengen zeigen, wie viele Karten eingelegt und wie viele beiseitegelegt werden. Zusätzliche Exemplare landen nicht automatisch in einem Verkaufsentwurf.\n• Einsortieren folgt deinem Handstapel: Die zuletzt gescannte Karte kommt zuerst. Nur direkt nacheinander gescannte gleiche Karten werden zusammengefasst.\n• Benötigt Cardmarket eine manuelle Bestätigung, erscheint oben ein Hinweis. Erst Antippen öffnet die echte Prüfseite; dein vorheriger Stand bleibt erhalten.\n• Lagersuche nach Kartenname oder Sammlernummer ab dem ersten Zeichen – mit Ordner, Seite, Fach und Kartendetails.\n• Aufnahme und lokale Erkennung bleiben von Cardmarket-Wartezeiten getrennt. Deine Scans werden weiter gespeichert.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.26-65.ipa",
-          "size": 4858343,
+          "version": "0.30.27",
+          "buildVersion": "66",
+          "date": "2026-11-16T17:13:06Z",
+          "localizedDescription": "Neu in KartenScan 0.30.27 (66):\n• Einheitliche Einlegeansicht ohne Scrollen: großes Kartenbild, deutliche Stückzahl und Lageradresse, feste Aktionen unten.\n• Einsortieren auch neuer Karten von der zuletzt gescannten bis zur ersten Karte; Rückgängig und Durchgang beenden mit Schutz bestätigter Lagerplätze.\n• Gedruckte Hände blockieren keine Aufnahme mehr. Bildruhe, Fokus, Schärfe und Kartenwechsel bleiben berücksichtigt; während der Erkennung kannst du weiter scannen.\n• Freie Fächer auf passenden Seiten und leere Seiten zwischen belegten Seiten werden bevorzugt, bis zu drei identische Karten je Fach.\n• Lagersuche ab Namens- oder Nummernanfang, führende Nullen gleichwertig und Nummern aufsteigend sortiert.\n• Warnung vor Veröffentlichung bei fehlendem Lagerplatz, mit Entscheidung zum Fortfahren.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.27-66.ipa",
+          "size": 4942709,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.26",
-              "buildVersion": "65",
-              "date": "2026-11-16T16:14:59Z",
-              "localizedDescription": "Neu in KartenScan 0.30.26 (65):\n• Bestand einsortieren: Klare Mengen zeigen, wie viele Karten eingelegt und wie viele beiseitegelegt werden. Zusätzliche Exemplare landen nicht automatisch in einem Verkaufsentwurf.\n• Einsortieren folgt deinem Handstapel: Die zuletzt gescannte Karte kommt zuerst. Nur direkt nacheinander gescannte gleiche Karten werden zusammengefasst.\n• Benötigt Cardmarket eine manuelle Bestätigung, erscheint oben ein Hinweis. Erst Antippen öffnet die echte Prüfseite; dein vorheriger Stand bleibt erhalten.\n• Lagersuche nach Kartenname oder Sammlernummer ab dem ersten Zeichen – mit Ordner, Seite, Fach und Kartendetails.\n• Aufnahme und lokale Erkennung bleiben von Cardmarket-Wartezeiten getrennt. Deine Scans werden weiter gespeichert.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.26-65.ipa",
-              "size": 4858343,
+              "version": "0.30.27",
+              "buildVersion": "66",
+              "date": "2026-11-16T17:13:06Z",
+              "localizedDescription": "Neu in KartenScan 0.30.27 (66):\n• Einheitliche Einlegeansicht ohne Scrollen: großes Kartenbild, deutliche Stückzahl und Lageradresse, feste Aktionen unten.\n• Einsortieren auch neuer Karten von der zuletzt gescannten bis zur ersten Karte; Rückgängig und Durchgang beenden mit Schutz bestätigter Lagerplätze.\n• Gedruckte Hände blockieren keine Aufnahme mehr. Bildruhe, Fokus, Schärfe und Kartenwechsel bleiben berücksichtigt; während der Erkennung kannst du weiter scannen.\n• Freie Fächer auf passenden Seiten und leere Seiten zwischen belegten Seiten werden bevorzugt, bis zu drei identische Karten je Fach.\n• Lagersuche ab Namens- oder Nummernanfang, führende Nullen gleichwertig und Nummern aufsteigend sortiert.\n• Warnung vor Veröffentlichung bei fehlendem Lagerplatz, mit Entscheidung zum Fortfahren.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.27-66.ipa",
+              "size": 4942709,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.26",
-      "versionDate": "2026-11-16T16:14:59Z",
-      "versionDescription": "Neu in KartenScan 0.30.26 (65):\n• Bestand einsortieren: Klare Mengen zeigen, wie viele Karten eingelegt und wie viele beiseitegelegt werden. Zusätzliche Exemplare landen nicht automatisch in einem Verkaufsentwurf.\n• Einsortieren folgt deinem Handstapel: Die zuletzt gescannte Karte kommt zuerst. Nur direkt nacheinander gescannte gleiche Karten werden zusammengefasst.\n• Benötigt Cardmarket eine manuelle Bestätigung, erscheint oben ein Hinweis. Erst Antippen öffnet die echte Prüfseite; dein vorheriger Stand bleibt erhalten.\n• Lagersuche nach Kartenname oder Sammlernummer ab dem ersten Zeichen – mit Ordner, Seite, Fach und Kartendetails.\n• Aufnahme und lokale Erkennung bleiben von Cardmarket-Wartezeiten getrennt. Deine Scans werden weiter gespeichert.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.26-65.ipa",
-      "size": 4858343,
+      "version": "0.30.27",
+      "versionDate": "2026-11-16T17:13:06Z",
+      "versionDescription": "Neu in KartenScan 0.30.27 (66):\n• Einheitliche Einlegeansicht ohne Scrollen: großes Kartenbild, deutliche Stückzahl und Lageradresse, feste Aktionen unten.\n• Einsortieren auch neuer Karten von der zuletzt gescannten bis zur ersten Karte; Rückgängig und Durchgang beenden mit Schutz bestätigter Lagerplätze.\n• Gedruckte Hände blockieren keine Aufnahme mehr. Bildruhe, Fokus, Schärfe und Kartenwechsel bleiben berücksichtigt; während der Erkennung kannst du weiter scannen.\n• Freie Fächer auf passenden Seiten und leere Seiten zwischen belegten Seiten werden bevorzugt, bis zu drei identische Karten je Fach.\n• Lagersuche ab Namens- oder Nummernanfang, führende Nullen gleichwertig und Nummern aufsteigend sortiert.\n• Warnung vor Veröffentlichung bei fehlendem Lagerplatz, mit Entscheidung zum Fortfahren.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.27-66.ipa",
+      "size": 4942709,
       "minOSVersion": "17.0"
     }
   ]
