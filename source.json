@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.24",
-          "buildVersion": "63",
-          "date": "2026-11-16T11:11:26Z",
-          "localizedDescription": "Neu in KartenScan 0.30.24 (63):\n\n• Deutlicher Hinweis bei abgelaufener Cardmarket-Anmeldung; direkt über der aktuellen Seite wieder verbinden.\n• Scans und Zwischenstände bleiben erhalten; wartende Bestandsprüfungen werden nach erfolgreicher Anmeldung fortgesetzt.\n• Aufgeräumte Einstellungen mit fünf klaren Bereichen und direktem Diagnoseexport.\n• Ordner- und Seitenetiketten direkt aus dem Ordnermenü drucken.\n• Seiten wählen: alle, gerade, ungerade, neue oder einzelne Seiten. Bereits gedruckte Seiten bleiben erneut druckbar.\n• Große Beschriftung: „Magic: The Gathering“ und Ordnername; deutlich lesbare Seitennummern.\n• Erfolgreiche Drucke pro Ordner merken, neue Folien gezielt beschriften und unklare Druckabbrüche sicher behandeln.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.24-63.ipa",
-          "size": 4724656,
+          "version": "0.30.25",
+          "buildVersion": "64",
+          "date": "2026-11-16T14:15:28Z",
+          "localizedDescription": "Neu in KartenScan 0.30.25 (64):\n• KartenScan-Konto auf demselben iPhone wechseln.\n• Stapel, Scanbilder, Bestandsrunden, Lagerdaten und Cardmarket-Verbindungen bleiben je Konto getrennt.\n• Vorhandene Daten bleiben beim bisherigen Konto und werden beim Wechsel sicher gespeichert.\n• Absenderadressen und Druckstatus getrennt; verspätete Hintergrundantworten abgesichert.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.25-64.ipa",
+          "size": 4812429,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.24",
-              "buildVersion": "63",
-              "date": "2026-11-16T11:11:26Z",
-              "localizedDescription": "Neu in KartenScan 0.30.24 (63):\n\n• Deutlicher Hinweis bei abgelaufener Cardmarket-Anmeldung; direkt über der aktuellen Seite wieder verbinden.\n• Scans und Zwischenstände bleiben erhalten; wartende Bestandsprüfungen werden nach erfolgreicher Anmeldung fortgesetzt.\n• Aufgeräumte Einstellungen mit fünf klaren Bereichen und direktem Diagnoseexport.\n• Ordner- und Seitenetiketten direkt aus dem Ordnermenü drucken.\n• Seiten wählen: alle, gerade, ungerade, neue oder einzelne Seiten. Bereits gedruckte Seiten bleiben erneut druckbar.\n• Große Beschriftung: „Magic: The Gathering“ und Ordnername; deutlich lesbare Seitennummern.\n• Erfolgreiche Drucke pro Ordner merken, neue Folien gezielt beschriften und unklare Druckabbrüche sicher behandeln.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.24-63.ipa",
-              "size": 4724656,
+              "version": "0.30.25",
+              "buildVersion": "64",
+              "date": "2026-11-16T14:15:28Z",
+              "localizedDescription": "Neu in KartenScan 0.30.25 (64):\n• KartenScan-Konto auf demselben iPhone wechseln.\n• Stapel, Scanbilder, Bestandsrunden, Lagerdaten und Cardmarket-Verbindungen bleiben je Konto getrennt.\n• Vorhandene Daten bleiben beim bisherigen Konto und werden beim Wechsel sicher gespeichert.\n• Absenderadressen und Druckstatus getrennt; verspätete Hintergrundantworten abgesichert.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.25-64.ipa",
+              "size": 4812429,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.24",
-      "versionDate": "2026-11-16T11:11:26Z",
-      "versionDescription": "Neu in KartenScan 0.30.24 (63):\n\n• Deutlicher Hinweis bei abgelaufener Cardmarket-Anmeldung; direkt über der aktuellen Seite wieder verbinden.\n• Scans und Zwischenstände bleiben erhalten; wartende Bestandsprüfungen werden nach erfolgreicher Anmeldung fortgesetzt.\n• Aufgeräumte Einstellungen mit fünf klaren Bereichen und direktem Diagnoseexport.\n• Ordner- und Seitenetiketten direkt aus dem Ordnermenü drucken.\n• Seiten wählen: alle, gerade, ungerade, neue oder einzelne Seiten. Bereits gedruckte Seiten bleiben erneut druckbar.\n• Große Beschriftung: „Magic: The Gathering“ und Ordnername; deutlich lesbare Seitennummern.\n• Erfolgreiche Drucke pro Ordner merken, neue Folien gezielt beschriften und unklare Druckabbrüche sicher behandeln.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.24-63.ipa",
-      "size": 4724656,
+      "version": "0.30.25",
+      "versionDate": "2026-11-16T14:15:28Z",
+      "versionDescription": "Neu in KartenScan 0.30.25 (64):\n• KartenScan-Konto auf demselben iPhone wechseln.\n• Stapel, Scanbilder, Bestandsrunden, Lagerdaten und Cardmarket-Verbindungen bleiben je Konto getrennt.\n• Vorhandene Daten bleiben beim bisherigen Konto und werden beim Wechsel sicher gespeichert.\n• Absenderadressen und Druckstatus getrennt; verspätete Hintergrundantworten abgesichert.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.25-64.ipa",
+      "size": 4812429,
       "minOSVersion": "17.0"
     }
   ]
