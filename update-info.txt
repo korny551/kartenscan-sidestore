@@ -1,7 +1,12 @@
-Neu in KartenScan 0.30.27 (66):
-• Einheitliche Einlegeansicht ohne Scrollen: großes Kartenbild, deutliche Stückzahl und Lageradresse, feste Aktionen unten.
-• Einsortieren auch neuer Karten von der zuletzt gescannten bis zur ersten Karte; Rückgängig und Durchgang beenden mit Schutz bestätigter Lagerplätze.
-• Gedruckte Hände blockieren keine Aufnahme mehr. Bildruhe, Fokus, Schärfe und Kartenwechsel bleiben berücksichtigt; während der Erkennung kannst du weiter scannen.
-• Freie Fächer auf passenden Seiten und leere Seiten zwischen belegten Seiten werden bevorzugt, bis zu drei identische Karten je Fach.
-• Lagersuche ab Namens- oder Nummernanfang, führende Nullen gleichwertig und Nummern aufsteigend sortiert.
-• Warnung vor Veröffentlichung bei fehlendem Lagerplatz, mit Entscheidung zum Fortfahren.
+Neu in KartenScan 0.30.28 (67):
+• Gemeinsamer Cardmarket-Hinweis oben für Anmeldung, Sicherheitsbestätigung oder Verbindungsprobleme – auch auf Detailseiten.
+• Beim Scannen bleibt der Hinweis ausgeblendet und erscheint beim Verlassen der Kameraseite. Scans und Fortschritt bleiben erhalten.
+• Anmeldung mit gespeichertem Zugang und Sicherheitsprüfung innerhalb der App; nach bestätigtem Erfolg automatisch zurück zur vorherigen Ansicht.
+• Gespeicherte Cardmarket-Zugangsdaten nach Face ID in den Einstellungen ansehen und bearbeiten. Im Anmeldefenster direkt „Mit Face ID anmelden“ nutzen.
+• Festhängende Verbindungsprüfungen erhalten eine verständliche Handlungsmöglichkeit.
+• Beim Dazulegen zu vorhandenen identischen Karten sind Seite und Fach orange hinterlegt.
+• Automatischer Lagerabgleich zwischen deinen Geräten: schnellerer Abruf, Wiederanlauf nach Fehlern und beim Öffnen der App. Bestehende Zuordnungen bleiben erhalten.
+• Sichtbarer Rückgängig-Button beim Scannen: Die letzte Aufnahme lässt sich auch während der Erkennung und bei einem pausierten Durchgang entfernen.
+• Zustand und Normal/Foil vor dem Bestands-Scan deutlicher auswählen. Standardauswahl: NM und Normal.
+• Bessere Erkennung kleiner Sammlernummern auf Retro-Karten sowie abgesicherte Suche bei fehlenden deutschen Katalogeinträgen. Widersprüchliche Ausgaben oder Sprachen bleiben zur Prüfung markiert.
+• Während Katalog- und Bestandsprüfungen kannst du weiter scannen. Der Kameraausschnitt bleibt erhalten.
