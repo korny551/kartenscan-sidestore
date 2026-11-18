@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.29",
-          "buildVersion": "68",
-          "date": "2026-11-18T11:40:04Z",
-          "localizedDescription": "Neu in KartenScan 0.30.29 (68):\n• Cardmarket-Hinweise unterscheiden Anmeldung, Sicherheitsprüfung und Verbindungsprobleme genauer.\n• Eine bekannte Sicherheitsprüfung bleibt als solche erkennbar, auch wenn das Bestätigungsfeld nicht eindeutig erkannt wird.\n• Der interne Browser kehrt erst zurück, wenn der benötigte Zugriff wieder bestätigt ist. Die Schleife aus Öffnen, sofortigem Schließen und erneutem Hinweis wurde korrigiert.\n• Der obere Hinweis reserviert Platz und schiebt den Inhalt nach unten. Die App bleibt bedienbar; beim Scannen erscheint der Hinweis erst nach Verlassen der Kamera.\n• Blockierte Angebotsaufrufe erhalten die passende Wiederherstellung. Unklar abgesendete Angebote werden weiterhin nicht automatisch erneut veröffentlicht.\n• Bessere Erkennung gedruckter Nummern wie 015/015 und korrekte deutsche Sprachzuordnung bei fehlenden deutschen Katalogreferenzen, unter anderem für Ultra Magnus und Dämonisches Kettenhemd.\n• Bestandszahlen zeigen den Online-Abrufstand und Karten mit beziehungsweise ohne Lagerplatz getrennt vom bisherigen Einlegefortschritt. Verkaufsreservierungen werden verständlich ausgewiesen.\n• Der Einsortierplan berücksichtigt bestätigte Bestandsänderungen auch nach gezielten Teilabrufen.\n• „Kommt noch einmal“ heißt jetzt „Zurückgestellt“.\n• Lagerordner lassen sich einzeln auf- und zuklappen. Die Kartensuche bleibt unabhängig davon nutzbar.\n• Während der Erkennung kannst du weiter scannen. Gespeicherte Scans, Zwischenstände und der Kameraausschnitt bleiben erhalten.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.29-68.ipa",
-          "size": 5311174,
+          "version": "0.30.30",
+          "buildVersion": "69",
+          "date": "2026-11-18T16:39:54Z",
+          "localizedDescription": "Neu in KartenScan 0.30.30 (69):\n\n- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.\n- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.\n- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.\n- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.30-69.ipa",
+          "size": 5324218,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.29",
-              "buildVersion": "68",
-              "date": "2026-11-18T11:40:04Z",
-              "localizedDescription": "Neu in KartenScan 0.30.29 (68):\n• Cardmarket-Hinweise unterscheiden Anmeldung, Sicherheitsprüfung und Verbindungsprobleme genauer.\n• Eine bekannte Sicherheitsprüfung bleibt als solche erkennbar, auch wenn das Bestätigungsfeld nicht eindeutig erkannt wird.\n• Der interne Browser kehrt erst zurück, wenn der benötigte Zugriff wieder bestätigt ist. Die Schleife aus Öffnen, sofortigem Schließen und erneutem Hinweis wurde korrigiert.\n• Der obere Hinweis reserviert Platz und schiebt den Inhalt nach unten. Die App bleibt bedienbar; beim Scannen erscheint der Hinweis erst nach Verlassen der Kamera.\n• Blockierte Angebotsaufrufe erhalten die passende Wiederherstellung. Unklar abgesendete Angebote werden weiterhin nicht automatisch erneut veröffentlicht.\n• Bessere Erkennung gedruckter Nummern wie 015/015 und korrekte deutsche Sprachzuordnung bei fehlenden deutschen Katalogreferenzen, unter anderem für Ultra Magnus und Dämonisches Kettenhemd.\n• Bestandszahlen zeigen den Online-Abrufstand und Karten mit beziehungsweise ohne Lagerplatz getrennt vom bisherigen Einlegefortschritt. Verkaufsreservierungen werden verständlich ausgewiesen.\n• Der Einsortierplan berücksichtigt bestätigte Bestandsänderungen auch nach gezielten Teilabrufen.\n• „Kommt noch einmal“ heißt jetzt „Zurückgestellt“.\n• Lagerordner lassen sich einzeln auf- und zuklappen. Die Kartensuche bleibt unabhängig davon nutzbar.\n• Während der Erkennung kannst du weiter scannen. Gespeicherte Scans, Zwischenstände und der Kameraausschnitt bleiben erhalten.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.29-68.ipa",
-              "size": 5311174,
+              "version": "0.30.30",
+              "buildVersion": "69",
+              "date": "2026-11-18T16:39:54Z",
+              "localizedDescription": "Neu in KartenScan 0.30.30 (69):\n\n- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.\n- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.\n- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.\n- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.30-69.ipa",
+              "size": 5324218,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.29",
-      "versionDate": "2026-11-18T11:40:04Z",
-      "versionDescription": "Neu in KartenScan 0.30.29 (68):\n• Cardmarket-Hinweise unterscheiden Anmeldung, Sicherheitsprüfung und Verbindungsprobleme genauer.\n• Eine bekannte Sicherheitsprüfung bleibt als solche erkennbar, auch wenn das Bestätigungsfeld nicht eindeutig erkannt wird.\n• Der interne Browser kehrt erst zurück, wenn der benötigte Zugriff wieder bestätigt ist. Die Schleife aus Öffnen, sofortigem Schließen und erneutem Hinweis wurde korrigiert.\n• Der obere Hinweis reserviert Platz und schiebt den Inhalt nach unten. Die App bleibt bedienbar; beim Scannen erscheint der Hinweis erst nach Verlassen der Kamera.\n• Blockierte Angebotsaufrufe erhalten die passende Wiederherstellung. Unklar abgesendete Angebote werden weiterhin nicht automatisch erneut veröffentlicht.\n• Bessere Erkennung gedruckter Nummern wie 015/015 und korrekte deutsche Sprachzuordnung bei fehlenden deutschen Katalogreferenzen, unter anderem für Ultra Magnus und Dämonisches Kettenhemd.\n• Bestandszahlen zeigen den Online-Abrufstand und Karten mit beziehungsweise ohne Lagerplatz getrennt vom bisherigen Einlegefortschritt. Verkaufsreservierungen werden verständlich ausgewiesen.\n• Der Einsortierplan berücksichtigt bestätigte Bestandsänderungen auch nach gezielten Teilabrufen.\n• „Kommt noch einmal“ heißt jetzt „Zurückgestellt“.\n• Lagerordner lassen sich einzeln auf- und zuklappen. Die Kartensuche bleibt unabhängig davon nutzbar.\n• Während der Erkennung kannst du weiter scannen. Gespeicherte Scans, Zwischenstände und der Kameraausschnitt bleiben erhalten.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.29-68.ipa",
-      "size": 5311174,
+      "version": "0.30.30",
+      "versionDate": "2026-11-18T16:39:54Z",
+      "versionDescription": "Neu in KartenScan 0.30.30 (69):\n\n- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.\n- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.\n- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.\n- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.30-69.ipa",
+      "size": 5324218,
       "minOSVersion": "17.0"
     }
   ]

@@ -1,12 +1,6 @@
-Neu in KartenScan 0.30.29 (68):
-• Cardmarket-Hinweise unterscheiden Anmeldung, Sicherheitsprüfung und Verbindungsprobleme genauer.
-• Eine bekannte Sicherheitsprüfung bleibt als solche erkennbar, auch wenn das Bestätigungsfeld nicht eindeutig erkannt wird.
-• Der interne Browser kehrt erst zurück, wenn der benötigte Zugriff wieder bestätigt ist. Die Schleife aus Öffnen, sofortigem Schließen und erneutem Hinweis wurde korrigiert.
-• Der obere Hinweis reserviert Platz und schiebt den Inhalt nach unten. Die App bleibt bedienbar; beim Scannen erscheint der Hinweis erst nach Verlassen der Kamera.
-• Blockierte Angebotsaufrufe erhalten die passende Wiederherstellung. Unklar abgesendete Angebote werden weiterhin nicht automatisch erneut veröffentlicht.
-• Bessere Erkennung gedruckter Nummern wie 015/015 und korrekte deutsche Sprachzuordnung bei fehlenden deutschen Katalogreferenzen, unter anderem für Ultra Magnus und Dämonisches Kettenhemd.
-• Bestandszahlen zeigen den Online-Abrufstand und Karten mit beziehungsweise ohne Lagerplatz getrennt vom bisherigen Einlegefortschritt. Verkaufsreservierungen werden verständlich ausgewiesen.
-• Der Einsortierplan berücksichtigt bestätigte Bestandsänderungen auch nach gezielten Teilabrufen.
-• „Kommt noch einmal“ heißt jetzt „Zurückgestellt“.
-• Lagerordner lassen sich einzeln auf- und zuklappen. Die Kartensuche bleibt unabhängig davon nutzbar.
-• Während der Erkennung kannst du weiter scannen. Gespeicherte Scans, Zwischenstände und der Kameraausschnitt bleiben erhalten.
+Neu in KartenScan 0.30.30 (69):
+
+- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.
+- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.
+- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.
+- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.
