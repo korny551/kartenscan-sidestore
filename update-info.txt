@@ -1,12 +1,12 @@
-Neu in KartenScan 0.30.28 (67):
-• Gemeinsamer Cardmarket-Hinweis oben für Anmeldung, Sicherheitsbestätigung oder Verbindungsprobleme – auch auf Detailseiten.
-• Beim Scannen bleibt der Hinweis ausgeblendet und erscheint beim Verlassen der Kameraseite. Scans und Fortschritt bleiben erhalten.
-• Anmeldung mit gespeichertem Zugang und Sicherheitsprüfung innerhalb der App; nach bestätigtem Erfolg automatisch zurück zur vorherigen Ansicht.
-• Gespeicherte Cardmarket-Zugangsdaten nach Face ID in den Einstellungen ansehen und bearbeiten. Im Anmeldefenster direkt „Mit Face ID anmelden“ nutzen.
-• Festhängende Verbindungsprüfungen erhalten eine verständliche Handlungsmöglichkeit.
-• Beim Dazulegen zu vorhandenen identischen Karten sind Seite und Fach orange hinterlegt.
-• Automatischer Lagerabgleich zwischen deinen Geräten: schnellerer Abruf, Wiederanlauf nach Fehlern und beim Öffnen der App. Bestehende Zuordnungen bleiben erhalten.
-• Sichtbarer Rückgängig-Button beim Scannen: Die letzte Aufnahme lässt sich auch während der Erkennung und bei einem pausierten Durchgang entfernen.
-• Zustand und Normal/Foil vor dem Bestands-Scan deutlicher auswählen. Standardauswahl: NM und Normal.
-• Bessere Erkennung kleiner Sammlernummern auf Retro-Karten sowie abgesicherte Suche bei fehlenden deutschen Katalogeinträgen. Widersprüchliche Ausgaben oder Sprachen bleiben zur Prüfung markiert.
-• Während Katalog- und Bestandsprüfungen kannst du weiter scannen. Der Kameraausschnitt bleibt erhalten.
+Neu in KartenScan 0.30.29 (68):
+• Cardmarket-Hinweise unterscheiden Anmeldung, Sicherheitsprüfung und Verbindungsprobleme genauer.
+• Eine bekannte Sicherheitsprüfung bleibt als solche erkennbar, auch wenn das Bestätigungsfeld nicht eindeutig erkannt wird.
+• Der interne Browser kehrt erst zurück, wenn der benötigte Zugriff wieder bestätigt ist. Die Schleife aus Öffnen, sofortigem Schließen und erneutem Hinweis wurde korrigiert.
+• Der obere Hinweis reserviert Platz und schiebt den Inhalt nach unten. Die App bleibt bedienbar; beim Scannen erscheint der Hinweis erst nach Verlassen der Kamera.
+• Blockierte Angebotsaufrufe erhalten die passende Wiederherstellung. Unklar abgesendete Angebote werden weiterhin nicht automatisch erneut veröffentlicht.
+• Bessere Erkennung gedruckter Nummern wie 015/015 und korrekte deutsche Sprachzuordnung bei fehlenden deutschen Katalogreferenzen, unter anderem für Ultra Magnus und Dämonisches Kettenhemd.
+• Bestandszahlen zeigen den Online-Abrufstand und Karten mit beziehungsweise ohne Lagerplatz getrennt vom bisherigen Einlegefortschritt. Verkaufsreservierungen werden verständlich ausgewiesen.
+• Der Einsortierplan berücksichtigt bestätigte Bestandsänderungen auch nach gezielten Teilabrufen.
+• „Kommt noch einmal“ heißt jetzt „Zurückgestellt“.
+• Lagerordner lassen sich einzeln auf- und zuklappen. Die Kartensuche bleibt unabhängig davon nutzbar.
+• Während der Erkennung kannst du weiter scannen. Gespeicherte Scans, Zwischenstände und der Kameraausschnitt bleiben erhalten.
