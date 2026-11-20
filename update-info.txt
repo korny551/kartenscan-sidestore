@@ -1,6 +1,8 @@
-Neu in KartenScan 0.30.30 (69):
+Neu in KartenScan 0.30.31 (70):
 
-- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.
-- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.
-- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.
-- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.
+- Vor dem Scannen für Verkauf oder Bestand erscheint ein gemeinsames Fenster mit den bisherigen Karteneigenschaften und Deutsch/Englisch. Die letzten Einstellungen werden übernommen.
+- Deine Sprachwahl gilt für den Scan-Durchgang und wird beim Einstellen und Bestandsabgleich verwendet, auch wenn der Katalog eine andere Sprache anzeigt.
+- Neuer Bereich „Bestand“ mit Einsortieren, Lagerplätzen, Kartensuche und Bestandsfortschritt. Verkaufsstapel und Bestellungen bleiben unter „Verkauf“.
+- Nach dem Veröffentlichen wird jede Karte mit ihrer Variante und Stückzahl im Cardmarket-Bestand geprüft. Nur nachweislich neu veröffentlichte Exemplare werden zum Einlegen angeboten.
+- Nicht eingestellte Karten bleiben gespeichert. Die App zeigt deutlich, wie viele Karten einsortiert und wie viele vorerst weggelegt werden sollen. Unklare Ergebnisse werden vor einem erneuten Absenden geprüft.
+- Während Hintergrundprüfungen kannst du weiter scannen. Bereits erfasste Karten und dein Fortschritt bleiben erhalten.

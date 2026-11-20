@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.30",
-          "buildVersion": "69",
-          "date": "2026-11-18T16:39:54Z",
-          "localizedDescription": "Neu in KartenScan 0.30.30 (69):\n\n- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.\n- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.\n- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.\n- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.30-69.ipa",
-          "size": 5324218,
+          "version": "0.30.31",
+          "buildVersion": "70",
+          "date": "2026-11-20T10:15:12Z",
+          "localizedDescription": "Neu in KartenScan 0.30.31 (70):\n\n- Vor dem Scannen für Verkauf oder Bestand erscheint ein gemeinsames Fenster mit den bisherigen Karteneigenschaften und Deutsch/Englisch. Die letzten Einstellungen werden übernommen.\n- Deine Sprachwahl gilt für den Scan-Durchgang und wird beim Einstellen und Bestandsabgleich verwendet, auch wenn der Katalog eine andere Sprache anzeigt.\n- Neuer Bereich „Bestand“ mit Einsortieren, Lagerplätzen, Kartensuche und Bestandsfortschritt. Verkaufsstapel und Bestellungen bleiben unter „Verkauf“.\n- Nach dem Veröffentlichen wird jede Karte mit ihrer Variante und Stückzahl im Cardmarket-Bestand geprüft. Nur nachweislich neu veröffentlichte Exemplare werden zum Einlegen angeboten.\n- Nicht eingestellte Karten bleiben gespeichert. Die App zeigt deutlich, wie viele Karten einsortiert und wie viele vorerst weggelegt werden sollen. Unklare Ergebnisse werden vor einem erneuten Absenden geprüft.\n- Während Hintergrundprüfungen kannst du weiter scannen. Bereits erfasste Karten und dein Fortschritt bleiben erhalten.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.31-70.ipa",
+          "size": 5502445,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.30",
-              "buildVersion": "69",
-              "date": "2026-11-18T16:39:54Z",
-              "localizedDescription": "Neu in KartenScan 0.30.30 (69):\n\n- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.\n- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.\n- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.\n- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.30-69.ipa",
-              "size": 5324218,
+              "version": "0.30.31",
+              "buildVersion": "70",
+              "date": "2026-11-20T10:15:12Z",
+              "localizedDescription": "Neu in KartenScan 0.30.31 (70):\n\n- Vor dem Scannen für Verkauf oder Bestand erscheint ein gemeinsames Fenster mit den bisherigen Karteneigenschaften und Deutsch/Englisch. Die letzten Einstellungen werden übernommen.\n- Deine Sprachwahl gilt für den Scan-Durchgang und wird beim Einstellen und Bestandsabgleich verwendet, auch wenn der Katalog eine andere Sprache anzeigt.\n- Neuer Bereich „Bestand“ mit Einsortieren, Lagerplätzen, Kartensuche und Bestandsfortschritt. Verkaufsstapel und Bestellungen bleiben unter „Verkauf“.\n- Nach dem Veröffentlichen wird jede Karte mit ihrer Variante und Stückzahl im Cardmarket-Bestand geprüft. Nur nachweislich neu veröffentlichte Exemplare werden zum Einlegen angeboten.\n- Nicht eingestellte Karten bleiben gespeichert. Die App zeigt deutlich, wie viele Karten einsortiert und wie viele vorerst weggelegt werden sollen. Unklare Ergebnisse werden vor einem erneuten Absenden geprüft.\n- Während Hintergrundprüfungen kannst du weiter scannen. Bereits erfasste Karten und dein Fortschritt bleiben erhalten.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.31-70.ipa",
+              "size": 5502445,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.30",
-      "versionDate": "2026-11-18T16:39:54Z",
-      "versionDescription": "Neu in KartenScan 0.30.30 (69):\n\n- Cardmarket-Anmeldung und Zugriff auf die benötigte Seite werden getrennt geprüft. Weiterleitungen führen nicht mehr zu einer wiederholten Prüfschleife.\n- Bestand und Veröffentlichung verwenden den Cardmarket-Zugang des ausgewählten KartenScan-Kontos.\n- Bereits erledigte Sicherheitsprüfungen werden zuverlässiger erkannt. Offene Bestätigungen bleiben direkt erreichbar.\n- Anmelde-, Sicherheits- und Verbindungsprobleme werden passend angezeigt. Scans und Fortschritt bleiben erhalten.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.30-69.ipa",
-      "size": 5324218,
+      "version": "0.30.31",
+      "versionDate": "2026-11-20T10:15:12Z",
+      "versionDescription": "Neu in KartenScan 0.30.31 (70):\n\n- Vor dem Scannen für Verkauf oder Bestand erscheint ein gemeinsames Fenster mit den bisherigen Karteneigenschaften und Deutsch/Englisch. Die letzten Einstellungen werden übernommen.\n- Deine Sprachwahl gilt für den Scan-Durchgang und wird beim Einstellen und Bestandsabgleich verwendet, auch wenn der Katalog eine andere Sprache anzeigt.\n- Neuer Bereich „Bestand“ mit Einsortieren, Lagerplätzen, Kartensuche und Bestandsfortschritt. Verkaufsstapel und Bestellungen bleiben unter „Verkauf“.\n- Nach dem Veröffentlichen wird jede Karte mit ihrer Variante und Stückzahl im Cardmarket-Bestand geprüft. Nur nachweislich neu veröffentlichte Exemplare werden zum Einlegen angeboten.\n- Nicht eingestellte Karten bleiben gespeichert. Die App zeigt deutlich, wie viele Karten einsortiert und wie viele vorerst weggelegt werden sollen. Unklare Ergebnisse werden vor einem erneuten Absenden geprüft.\n- Während Hintergrundprüfungen kannst du weiter scannen. Bereits erfasste Karten und dein Fortschritt bleiben erhalten.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.31-70.ipa",
+      "size": 5502445,
       "minOSVersion": "17.0"
     }
   ]
