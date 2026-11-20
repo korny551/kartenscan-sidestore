@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.31",
-          "buildVersion": "70",
-          "date": "2026-11-20T10:15:12Z",
-          "localizedDescription": "Neu in KartenScan 0.30.31 (70):\n\n- Vor dem Scannen für Verkauf oder Bestand erscheint ein gemeinsames Fenster mit den bisherigen Karteneigenschaften und Deutsch/Englisch. Die letzten Einstellungen werden übernommen.\n- Deine Sprachwahl gilt für den Scan-Durchgang und wird beim Einstellen und Bestandsabgleich verwendet, auch wenn der Katalog eine andere Sprache anzeigt.\n- Neuer Bereich „Bestand“ mit Einsortieren, Lagerplätzen, Kartensuche und Bestandsfortschritt. Verkaufsstapel und Bestellungen bleiben unter „Verkauf“.\n- Nach dem Veröffentlichen wird jede Karte mit ihrer Variante und Stückzahl im Cardmarket-Bestand geprüft. Nur nachweislich neu veröffentlichte Exemplare werden zum Einlegen angeboten.\n- Nicht eingestellte Karten bleiben gespeichert. Die App zeigt deutlich, wie viele Karten einsortiert und wie viele vorerst weggelegt werden sollen. Unklare Ergebnisse werden vor einem erneuten Absenden geprüft.\n- Während Hintergrundprüfungen kannst du weiter scannen. Bereits erfasste Karten und dein Fortschritt bleiben erhalten.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.31-70.ipa",
-          "size": 5502445,
+          "version": "0.30.32",
+          "buildVersion": "71",
+          "date": "2026-11-20T18:53:33Z",
+          "localizedDescription": "Neu in KartenScan 0.30.32 (71):\n\n- Nach einem vollständigen Cardmarket-Bestandsabgleich kannst du gespeicherte Lagerplätze kontrollieren, deren passende Karten nicht mehr online sind. Die Kontrollansicht zeigt Kartenbild, Ordner, Seite und Fach wie beim Einsortieren.\n- Mit „Ignorieren“ behältst du die Zuordnung und überspringst den aktuellen Hinweis. „Aus Ordner löschen“ entfernt nur die betroffene Lagerzuordnung; bei Cardmarket wird nichts gelöscht. Offene Verkäufe und die genaue Kartenvariante werden berücksichtigt.\n- Der bekannte KartenScan-Zugang erhält einen übersichtlichen Willkommen-Bildschirm mit Face ID. Die Passworteingabe öffnest du nur bei Bedarf; ein abgebrochener Face-ID-Versuch lässt sich ruhig erneut starten.\n- Beim Start werden KartenScan und Cardmarket gemeinsam mit den gespeicherten Zugängen angemeldet. Die App wird erst freigegeben, wenn beide Anmeldungen bestätigt sind. Die gemeinsame Face-ID-Freigabe bleibt erhalten.\n- Die bestehende Sicherheitsbestätigung bleibt erhalten: passende Hinweise oben, Prüfung innerhalb der App und Rückkehr an dieselbe Stelle. Nach dem gemeinsamen Start laufen Scanaufnahme und Speicherung unabhängig von späteren Online-Prüfungen weiter.\n- Unter „Anmeldung & Konten“ findest du beide Konten und den geschützten Zugriff auf deine gespeicherten Cardmarket-Zugangsdaten übersichtlich zusammen.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.32-71.ipa",
+          "size": 5662160,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.31",
-              "buildVersion": "70",
-              "date": "2026-11-20T10:15:12Z",
-              "localizedDescription": "Neu in KartenScan 0.30.31 (70):\n\n- Vor dem Scannen für Verkauf oder Bestand erscheint ein gemeinsames Fenster mit den bisherigen Karteneigenschaften und Deutsch/Englisch. Die letzten Einstellungen werden übernommen.\n- Deine Sprachwahl gilt für den Scan-Durchgang und wird beim Einstellen und Bestandsabgleich verwendet, auch wenn der Katalog eine andere Sprache anzeigt.\n- Neuer Bereich „Bestand“ mit Einsortieren, Lagerplätzen, Kartensuche und Bestandsfortschritt. Verkaufsstapel und Bestellungen bleiben unter „Verkauf“.\n- Nach dem Veröffentlichen wird jede Karte mit ihrer Variante und Stückzahl im Cardmarket-Bestand geprüft. Nur nachweislich neu veröffentlichte Exemplare werden zum Einlegen angeboten.\n- Nicht eingestellte Karten bleiben gespeichert. Die App zeigt deutlich, wie viele Karten einsortiert und wie viele vorerst weggelegt werden sollen. Unklare Ergebnisse werden vor einem erneuten Absenden geprüft.\n- Während Hintergrundprüfungen kannst du weiter scannen. Bereits erfasste Karten und dein Fortschritt bleiben erhalten.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.31-70.ipa",
-              "size": 5502445,
+              "version": "0.30.32",
+              "buildVersion": "71",
+              "date": "2026-11-20T18:53:33Z",
+              "localizedDescription": "Neu in KartenScan 0.30.32 (71):\n\n- Nach einem vollständigen Cardmarket-Bestandsabgleich kannst du gespeicherte Lagerplätze kontrollieren, deren passende Karten nicht mehr online sind. Die Kontrollansicht zeigt Kartenbild, Ordner, Seite und Fach wie beim Einsortieren.\n- Mit „Ignorieren“ behältst du die Zuordnung und überspringst den aktuellen Hinweis. „Aus Ordner löschen“ entfernt nur die betroffene Lagerzuordnung; bei Cardmarket wird nichts gelöscht. Offene Verkäufe und die genaue Kartenvariante werden berücksichtigt.\n- Der bekannte KartenScan-Zugang erhält einen übersichtlichen Willkommen-Bildschirm mit Face ID. Die Passworteingabe öffnest du nur bei Bedarf; ein abgebrochener Face-ID-Versuch lässt sich ruhig erneut starten.\n- Beim Start werden KartenScan und Cardmarket gemeinsam mit den gespeicherten Zugängen angemeldet. Die App wird erst freigegeben, wenn beide Anmeldungen bestätigt sind. Die gemeinsame Face-ID-Freigabe bleibt erhalten.\n- Die bestehende Sicherheitsbestätigung bleibt erhalten: passende Hinweise oben, Prüfung innerhalb der App und Rückkehr an dieselbe Stelle. Nach dem gemeinsamen Start laufen Scanaufnahme und Speicherung unabhängig von späteren Online-Prüfungen weiter.\n- Unter „Anmeldung & Konten“ findest du beide Konten und den geschützten Zugriff auf deine gespeicherten Cardmarket-Zugangsdaten übersichtlich zusammen.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.32-71.ipa",
+              "size": 5662160,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.31",
-      "versionDate": "2026-11-20T10:15:12Z",
-      "versionDescription": "Neu in KartenScan 0.30.31 (70):\n\n- Vor dem Scannen für Verkauf oder Bestand erscheint ein gemeinsames Fenster mit den bisherigen Karteneigenschaften und Deutsch/Englisch. Die letzten Einstellungen werden übernommen.\n- Deine Sprachwahl gilt für den Scan-Durchgang und wird beim Einstellen und Bestandsabgleich verwendet, auch wenn der Katalog eine andere Sprache anzeigt.\n- Neuer Bereich „Bestand“ mit Einsortieren, Lagerplätzen, Kartensuche und Bestandsfortschritt. Verkaufsstapel und Bestellungen bleiben unter „Verkauf“.\n- Nach dem Veröffentlichen wird jede Karte mit ihrer Variante und Stückzahl im Cardmarket-Bestand geprüft. Nur nachweislich neu veröffentlichte Exemplare werden zum Einlegen angeboten.\n- Nicht eingestellte Karten bleiben gespeichert. Die App zeigt deutlich, wie viele Karten einsortiert und wie viele vorerst weggelegt werden sollen. Unklare Ergebnisse werden vor einem erneuten Absenden geprüft.\n- Während Hintergrundprüfungen kannst du weiter scannen. Bereits erfasste Karten und dein Fortschritt bleiben erhalten.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.31-70.ipa",
-      "size": 5502445,
+      "version": "0.30.32",
+      "versionDate": "2026-11-20T18:53:33Z",
+      "versionDescription": "Neu in KartenScan 0.30.32 (71):\n\n- Nach einem vollständigen Cardmarket-Bestandsabgleich kannst du gespeicherte Lagerplätze kontrollieren, deren passende Karten nicht mehr online sind. Die Kontrollansicht zeigt Kartenbild, Ordner, Seite und Fach wie beim Einsortieren.\n- Mit „Ignorieren“ behältst du die Zuordnung und überspringst den aktuellen Hinweis. „Aus Ordner löschen“ entfernt nur die betroffene Lagerzuordnung; bei Cardmarket wird nichts gelöscht. Offene Verkäufe und die genaue Kartenvariante werden berücksichtigt.\n- Der bekannte KartenScan-Zugang erhält einen übersichtlichen Willkommen-Bildschirm mit Face ID. Die Passworteingabe öffnest du nur bei Bedarf; ein abgebrochener Face-ID-Versuch lässt sich ruhig erneut starten.\n- Beim Start werden KartenScan und Cardmarket gemeinsam mit den gespeicherten Zugängen angemeldet. Die App wird erst freigegeben, wenn beide Anmeldungen bestätigt sind. Die gemeinsame Face-ID-Freigabe bleibt erhalten.\n- Die bestehende Sicherheitsbestätigung bleibt erhalten: passende Hinweise oben, Prüfung innerhalb der App und Rückkehr an dieselbe Stelle. Nach dem gemeinsamen Start laufen Scanaufnahme und Speicherung unabhängig von späteren Online-Prüfungen weiter.\n- Unter „Anmeldung & Konten“ findest du beide Konten und den geschützten Zugriff auf deine gespeicherten Cardmarket-Zugangsdaten übersichtlich zusammen.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.32-71.ipa",
+      "size": 5662160,
       "minOSVersion": "17.0"
     }
   ]
