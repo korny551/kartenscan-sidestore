@@ -1,9 +1,8 @@
-Neu in KartenScan 0.30.33 (72):
+Neu in KartenScan 0.30.34 (73):
 
-- Die Lagerkontrolle behält offene Hinweise auch nach einem Hintergrundwechsel oder App-Neustart. Im Bereich Bestand zeigen eine feste Kachel und die Zahl am Bestand-Symbol, welche Zuordnungen noch geprüft werden müssen.
-- Die Kontrolle berücksichtigt eigene Online-Angebote, offene Verkäufe und die genaue Kartenvariante. Auch unklare Artikel- oder Kontozuordnungen sowie ungeklärte Reservierungen werden sichtbar zur Prüfung angeboten.
-- Automatische Bestandsaktualisierungen werden in die Lagerkontrolle eingebunden. Frische, unveränderte Abrufstände werden wiederverwendet; ein vollständiger Abgleich wird nicht bei jeder einzelnen Aufnahme gestartet.
-- Die Kontrollansicht zeigt weiterhin das Kartenbild und die große Lageradresse. Ignorieren gilt für den jeweiligen Abgleich. Aus Ordner löschen entfernt ausschließlich die ausgewählte lokale Zuordnung; vor der Aktion werden der aktuelle Abgleich und die Reservierungen geprüft. Bei Cardmarket wird dabei nichts gelöscht.
-- Beim Appstart kann der normal gespeicherte Cardmarket-Zugang dieselbe Face-ID-Freigabe wie KartenScan verwenden. Die gemeinsame Anmeldung zeigt ihren Fortschritt in der bekannten App-Optik und gibt die App erst nach beiden bestätigten Anmeldungen frei. Eine echte Sicherheitsbestätigung bleibt manuell.
-- Antippbare Bedienelemente erhalten bei eingeschalteter Haptik einen kurzen, dezenten Bedienimpuls. Vorhandene Signale werden dabei berücksichtigt, um doppelte Impulse zu vermeiden; Scrollen und automatische Hintergrundvorgänge lösen kein Klickfeedback aus.
-- Scanaufnahme und Speicherung laufen während der Online-Abfragen weiter. Neue Lagerhinweise öffnen keine Seite über der Kamera.
+- Die gemeinsame Anmeldung erklärt jetzt auch, wenn die Zuordnung zum Cardmarket-Verkäuferkonto noch nicht bestätigt werden konnte. Du kannst die fehlgeschlagene Prüfung gezielt wiederholen.
+- Nach dem Absenden der Cardmarket-Anmeldung wechselt die App zur eigenen Fortschrittsansicht. Der Anmeldebrowser bleibt auf die erforderlichen Anmelde- und Sicherheitsseiten begrenzt. Eine echte Sicherheitsbestätigung führst du weiterhin selbst aus.
+- In der Lagerkontrolle kannst du mit „Karte liegt hier“ einen Lagerplatz ausdrücklich bestätigen. Ein weiterhin fehlendes Online-Angebot bleibt als eigener Hinweis sichtbar.
+- Bestehende Cardmarket-Angebote lassen sich auch bei Sprache und Foil/Normal korrigieren, soweit das zugehörige Cardmarket-Formular dies unterstützt. Die App zeigt vor dem Senden, für wie viele Exemplare die Änderung gilt.
+- Nach einer Angebotskorrektur wird gezielt das betroffene Angebot geprüft. Erst ein bestätigter Online-Stand gilt als Erfolg; unklare Versuche werden nicht automatisch erneut gesendet.
+- Die aktuelle Ansicht und gespeicherte Scans bleiben erhalten. Der vollständige Bestandsabgleich bleibt für Verkäufe und Änderungen auf anderen Geräten verfügbar.
