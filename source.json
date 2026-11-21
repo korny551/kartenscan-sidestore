@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.35",
-          "buildVersion": "74",
-          "date": "2026-11-21T16:53:11Z",
-          "localizedDescription": "Neu in KartenScan 0.30.35 (74):\n\n- Die Lagerkontrolle zeigt ihren tatsächlichen Fortschritt mit aktuellem Arbeitsschritt und nachvollziehbaren Zählern. Erst ein vollständig geprüfter und gespeicherter Abgleich gilt als abgeschlossen.\n- Prüffälle erklären die Abweichung pro Karte: gespeicherte und online angebotene Mengen, unterschiedliche Eigenschaften oder eine noch unklare Zuordnung. Ein bestätigter Lagerplatz verdeckt den Prüfgrund nicht mehr.\n- „Bearbeiten“ öffnet eine verständliche Gegenüberstellung der Lagerdaten und vorhandener Online-Angebote. Auch abweichende Sprache, Zustand oder Foil/Normal können zugeordnet werden. Bei mehreren Angeboten wählst du das richtige selbst aus.\n- Lagerdaten können ausdrücklich nur in KartenScan korrigiert werden. Änderungen eines bestehenden Cardmarket-Angebots werden nach dem Senden gezielt überprüft; die ausgewählte Lagerkarte wird erst nach bestätigtem Ergebnis angepasst.\n- „Nächste Karte“ blättert weiter und lässt den Prüffall offen. „Hinweis für diesen Abgleich ausblenden“ ist als gesonderte Aktion verständlich benannt.\n- Kartenbilder erhalten einen Ersatz für fehlende Scanbilder aus verifizierten Bildquellen der passenden Ausgabe.\n- Der vollständige Abgleich vermeidet doppelte frische Bestellabfragen und speichert Zwischenstände effizienter. Die Prüfung von Bestand und offenen Verkäufen bleibt vollständig.\n- Scanaufnahme, Speicherung und die aktuelle Ansicht bleiben von den Hintergrundprüfungen unabhängig.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.35-74.ipa",
-          "size": 6172897,
+          "version": "0.30.36",
+          "buildVersion": "75",
+          "date": "2026-11-21T17:35:06Z",
+          "localizedDescription": "Neu in KartenScan 0.30.36 (75):\n\n- Fehlende Cardmarket-Produktzuordnungen werden beim vollständigen Lagerabgleich aus eindeutig passenden vorhandenen Daten ergänzt.\n- Karten, bei denen ausschließlich die interne Produktnummer fehlt, erscheinen nicht mehr als Lagerfehler. Das gilt auch für bereits gespeicherte Hinweise.\n- Tatsächliche Bestandsabweichungen, widersprüchliche Zuordnungen und ungeklärte Reservierungen bleiben sichtbar.\n- Lagerplätze, Karteneigenschaften und gespeicherte Scans bleiben erhalten.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.36-75.ipa",
+          "size": 6193322,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.35",
-              "buildVersion": "74",
-              "date": "2026-11-21T16:53:11Z",
-              "localizedDescription": "Neu in KartenScan 0.30.35 (74):\n\n- Die Lagerkontrolle zeigt ihren tatsächlichen Fortschritt mit aktuellem Arbeitsschritt und nachvollziehbaren Zählern. Erst ein vollständig geprüfter und gespeicherter Abgleich gilt als abgeschlossen.\n- Prüffälle erklären die Abweichung pro Karte: gespeicherte und online angebotene Mengen, unterschiedliche Eigenschaften oder eine noch unklare Zuordnung. Ein bestätigter Lagerplatz verdeckt den Prüfgrund nicht mehr.\n- „Bearbeiten“ öffnet eine verständliche Gegenüberstellung der Lagerdaten und vorhandener Online-Angebote. Auch abweichende Sprache, Zustand oder Foil/Normal können zugeordnet werden. Bei mehreren Angeboten wählst du das richtige selbst aus.\n- Lagerdaten können ausdrücklich nur in KartenScan korrigiert werden. Änderungen eines bestehenden Cardmarket-Angebots werden nach dem Senden gezielt überprüft; die ausgewählte Lagerkarte wird erst nach bestätigtem Ergebnis angepasst.\n- „Nächste Karte“ blättert weiter und lässt den Prüffall offen. „Hinweis für diesen Abgleich ausblenden“ ist als gesonderte Aktion verständlich benannt.\n- Kartenbilder erhalten einen Ersatz für fehlende Scanbilder aus verifizierten Bildquellen der passenden Ausgabe.\n- Der vollständige Abgleich vermeidet doppelte frische Bestellabfragen und speichert Zwischenstände effizienter. Die Prüfung von Bestand und offenen Verkäufen bleibt vollständig.\n- Scanaufnahme, Speicherung und die aktuelle Ansicht bleiben von den Hintergrundprüfungen unabhängig.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.35-74.ipa",
-              "size": 6172897,
+              "version": "0.30.36",
+              "buildVersion": "75",
+              "date": "2026-11-21T17:35:06Z",
+              "localizedDescription": "Neu in KartenScan 0.30.36 (75):\n\n- Fehlende Cardmarket-Produktzuordnungen werden beim vollständigen Lagerabgleich aus eindeutig passenden vorhandenen Daten ergänzt.\n- Karten, bei denen ausschließlich die interne Produktnummer fehlt, erscheinen nicht mehr als Lagerfehler. Das gilt auch für bereits gespeicherte Hinweise.\n- Tatsächliche Bestandsabweichungen, widersprüchliche Zuordnungen und ungeklärte Reservierungen bleiben sichtbar.\n- Lagerplätze, Karteneigenschaften und gespeicherte Scans bleiben erhalten.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.36-75.ipa",
+              "size": 6193322,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.35",
-      "versionDate": "2026-11-21T16:53:11Z",
-      "versionDescription": "Neu in KartenScan 0.30.35 (74):\n\n- Die Lagerkontrolle zeigt ihren tatsächlichen Fortschritt mit aktuellem Arbeitsschritt und nachvollziehbaren Zählern. Erst ein vollständig geprüfter und gespeicherter Abgleich gilt als abgeschlossen.\n- Prüffälle erklären die Abweichung pro Karte: gespeicherte und online angebotene Mengen, unterschiedliche Eigenschaften oder eine noch unklare Zuordnung. Ein bestätigter Lagerplatz verdeckt den Prüfgrund nicht mehr.\n- „Bearbeiten“ öffnet eine verständliche Gegenüberstellung der Lagerdaten und vorhandener Online-Angebote. Auch abweichende Sprache, Zustand oder Foil/Normal können zugeordnet werden. Bei mehreren Angeboten wählst du das richtige selbst aus.\n- Lagerdaten können ausdrücklich nur in KartenScan korrigiert werden. Änderungen eines bestehenden Cardmarket-Angebots werden nach dem Senden gezielt überprüft; die ausgewählte Lagerkarte wird erst nach bestätigtem Ergebnis angepasst.\n- „Nächste Karte“ blättert weiter und lässt den Prüffall offen. „Hinweis für diesen Abgleich ausblenden“ ist als gesonderte Aktion verständlich benannt.\n- Kartenbilder erhalten einen Ersatz für fehlende Scanbilder aus verifizierten Bildquellen der passenden Ausgabe.\n- Der vollständige Abgleich vermeidet doppelte frische Bestellabfragen und speichert Zwischenstände effizienter. Die Prüfung von Bestand und offenen Verkäufen bleibt vollständig.\n- Scanaufnahme, Speicherung und die aktuelle Ansicht bleiben von den Hintergrundprüfungen unabhängig.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.35-74.ipa",
-      "size": 6172897,
+      "version": "0.30.36",
+      "versionDate": "2026-11-21T17:35:06Z",
+      "versionDescription": "Neu in KartenScan 0.30.36 (75):\n\n- Fehlende Cardmarket-Produktzuordnungen werden beim vollständigen Lagerabgleich aus eindeutig passenden vorhandenen Daten ergänzt.\n- Karten, bei denen ausschließlich die interne Produktnummer fehlt, erscheinen nicht mehr als Lagerfehler. Das gilt auch für bereits gespeicherte Hinweise.\n- Tatsächliche Bestandsabweichungen, widersprüchliche Zuordnungen und ungeklärte Reservierungen bleiben sichtbar.\n- Lagerplätze, Karteneigenschaften und gespeicherte Scans bleiben erhalten.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.36-75.ipa",
+      "size": 6193322,
       "minOSVersion": "17.0"
     }
   ]
