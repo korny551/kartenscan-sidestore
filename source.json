@@ -20,12 +20,12 @@
       },
       "versions": [
         {
-          "version": "0.30.34",
-          "buildVersion": "73",
-          "date": "2026-11-21T12:39:07Z",
-          "localizedDescription": "Neu in KartenScan 0.30.34 (73):\n\n- Die gemeinsame Anmeldung erklärt jetzt auch, wenn die Zuordnung zum Cardmarket-Verkäuferkonto noch nicht bestätigt werden konnte. Du kannst die fehlgeschlagene Prüfung gezielt wiederholen.\n- Nach dem Absenden der Cardmarket-Anmeldung wechselt die App zur eigenen Fortschrittsansicht. Der Anmeldebrowser bleibt auf die erforderlichen Anmelde- und Sicherheitsseiten begrenzt. Eine echte Sicherheitsbestätigung führst du weiterhin selbst aus.\n- In der Lagerkontrolle kannst du mit „Karte liegt hier“ einen Lagerplatz ausdrücklich bestätigen. Ein weiterhin fehlendes Online-Angebot bleibt als eigener Hinweis sichtbar.\n- Bestehende Cardmarket-Angebote lassen sich auch bei Sprache und Foil/Normal korrigieren, soweit das zugehörige Cardmarket-Formular dies unterstützt. Die App zeigt vor dem Senden, für wie viele Exemplare die Änderung gilt.\n- Nach einer Angebotskorrektur wird gezielt das betroffene Angebot geprüft. Erst ein bestätigter Online-Stand gilt als Erfolg; unklare Versuche werden nicht automatisch erneut gesendet.\n- Die aktuelle Ansicht und gespeicherte Scans bleiben erhalten. Der vollständige Bestandsabgleich bleibt für Verkäufe und Änderungen auf anderen Geräten verfügbar.",
-          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.34-73.ipa",
-          "size": 5946382,
+          "version": "0.30.35",
+          "buildVersion": "74",
+          "date": "2026-11-21T16:53:11Z",
+          "localizedDescription": "Neu in KartenScan 0.30.35 (74):\n\n- Die Lagerkontrolle zeigt ihren tatsächlichen Fortschritt mit aktuellem Arbeitsschritt und nachvollziehbaren Zählern. Erst ein vollständig geprüfter und gespeicherter Abgleich gilt als abgeschlossen.\n- Prüffälle erklären die Abweichung pro Karte: gespeicherte und online angebotene Mengen, unterschiedliche Eigenschaften oder eine noch unklare Zuordnung. Ein bestätigter Lagerplatz verdeckt den Prüfgrund nicht mehr.\n- „Bearbeiten“ öffnet eine verständliche Gegenüberstellung der Lagerdaten und vorhandener Online-Angebote. Auch abweichende Sprache, Zustand oder Foil/Normal können zugeordnet werden. Bei mehreren Angeboten wählst du das richtige selbst aus.\n- Lagerdaten können ausdrücklich nur in KartenScan korrigiert werden. Änderungen eines bestehenden Cardmarket-Angebots werden nach dem Senden gezielt überprüft; die ausgewählte Lagerkarte wird erst nach bestätigtem Ergebnis angepasst.\n- „Nächste Karte“ blättert weiter und lässt den Prüffall offen. „Hinweis für diesen Abgleich ausblenden“ ist als gesonderte Aktion verständlich benannt.\n- Kartenbilder erhalten einen Ersatz für fehlende Scanbilder aus verifizierten Bildquellen der passenden Ausgabe.\n- Der vollständige Abgleich vermeidet doppelte frische Bestellabfragen und speichert Zwischenstände effizienter. Die Prüfung von Bestand und offenen Verkäufen bleibt vollständig.\n- Scanaufnahme, Speicherung und die aktuelle Ansicht bleiben von den Hintergrundprüfungen unabhängig.",
+          "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.35-74.ipa",
+          "size": 6172897,
           "minOSVersion": "17.0"
         }
       ],
@@ -34,22 +34,22 @@
           "track": "stable",
           "releases": [
             {
-              "version": "0.30.34",
-              "buildVersion": "73",
-              "date": "2026-11-21T12:39:07Z",
-              "localizedDescription": "Neu in KartenScan 0.30.34 (73):\n\n- Die gemeinsame Anmeldung erklärt jetzt auch, wenn die Zuordnung zum Cardmarket-Verkäuferkonto noch nicht bestätigt werden konnte. Du kannst die fehlgeschlagene Prüfung gezielt wiederholen.\n- Nach dem Absenden der Cardmarket-Anmeldung wechselt die App zur eigenen Fortschrittsansicht. Der Anmeldebrowser bleibt auf die erforderlichen Anmelde- und Sicherheitsseiten begrenzt. Eine echte Sicherheitsbestätigung führst du weiterhin selbst aus.\n- In der Lagerkontrolle kannst du mit „Karte liegt hier“ einen Lagerplatz ausdrücklich bestätigen. Ein weiterhin fehlendes Online-Angebot bleibt als eigener Hinweis sichtbar.\n- Bestehende Cardmarket-Angebote lassen sich auch bei Sprache und Foil/Normal korrigieren, soweit das zugehörige Cardmarket-Formular dies unterstützt. Die App zeigt vor dem Senden, für wie viele Exemplare die Änderung gilt.\n- Nach einer Angebotskorrektur wird gezielt das betroffene Angebot geprüft. Erst ein bestätigter Online-Stand gilt als Erfolg; unklare Versuche werden nicht automatisch erneut gesendet.\n- Die aktuelle Ansicht und gespeicherte Scans bleiben erhalten. Der vollständige Bestandsabgleich bleibt für Verkäufe und Änderungen auf anderen Geräten verfügbar.",
-              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.34-73.ipa",
-              "size": 5946382,
+              "version": "0.30.35",
+              "buildVersion": "74",
+              "date": "2026-11-21T16:53:11Z",
+              "localizedDescription": "Neu in KartenScan 0.30.35 (74):\n\n- Die Lagerkontrolle zeigt ihren tatsächlichen Fortschritt mit aktuellem Arbeitsschritt und nachvollziehbaren Zählern. Erst ein vollständig geprüfter und gespeicherter Abgleich gilt als abgeschlossen.\n- Prüffälle erklären die Abweichung pro Karte: gespeicherte und online angebotene Mengen, unterschiedliche Eigenschaften oder eine noch unklare Zuordnung. Ein bestätigter Lagerplatz verdeckt den Prüfgrund nicht mehr.\n- „Bearbeiten“ öffnet eine verständliche Gegenüberstellung der Lagerdaten und vorhandener Online-Angebote. Auch abweichende Sprache, Zustand oder Foil/Normal können zugeordnet werden. Bei mehreren Angeboten wählst du das richtige selbst aus.\n- Lagerdaten können ausdrücklich nur in KartenScan korrigiert werden. Änderungen eines bestehenden Cardmarket-Angebots werden nach dem Senden gezielt überprüft; die ausgewählte Lagerkarte wird erst nach bestätigtem Ergebnis angepasst.\n- „Nächste Karte“ blättert weiter und lässt den Prüffall offen. „Hinweis für diesen Abgleich ausblenden“ ist als gesonderte Aktion verständlich benannt.\n- Kartenbilder erhalten einen Ersatz für fehlende Scanbilder aus verifizierten Bildquellen der passenden Ausgabe.\n- Der vollständige Abgleich vermeidet doppelte frische Bestellabfragen und speichert Zwischenstände effizienter. Die Prüfung von Bestand und offenen Verkäufen bleibt vollständig.\n- Scanaufnahme, Speicherung und die aktuelle Ansicht bleiben von den Hintergrundprüfungen unabhängig.",
+              "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.35-74.ipa",
+              "size": 6172897,
               "minOSVersion": "17.0"
             }
           ]
         }
       ],
-      "version": "0.30.34",
-      "versionDate": "2026-11-21T12:39:07Z",
-      "versionDescription": "Neu in KartenScan 0.30.34 (73):\n\n- Die gemeinsame Anmeldung erklärt jetzt auch, wenn die Zuordnung zum Cardmarket-Verkäuferkonto noch nicht bestätigt werden konnte. Du kannst die fehlgeschlagene Prüfung gezielt wiederholen.\n- Nach dem Absenden der Cardmarket-Anmeldung wechselt die App zur eigenen Fortschrittsansicht. Der Anmeldebrowser bleibt auf die erforderlichen Anmelde- und Sicherheitsseiten begrenzt. Eine echte Sicherheitsbestätigung führst du weiterhin selbst aus.\n- In der Lagerkontrolle kannst du mit „Karte liegt hier“ einen Lagerplatz ausdrücklich bestätigen. Ein weiterhin fehlendes Online-Angebot bleibt als eigener Hinweis sichtbar.\n- Bestehende Cardmarket-Angebote lassen sich auch bei Sprache und Foil/Normal korrigieren, soweit das zugehörige Cardmarket-Formular dies unterstützt. Die App zeigt vor dem Senden, für wie viele Exemplare die Änderung gilt.\n- Nach einer Angebotskorrektur wird gezielt das betroffene Angebot geprüft. Erst ein bestätigter Online-Stand gilt als Erfolg; unklare Versuche werden nicht automatisch erneut gesendet.\n- Die aktuelle Ansicht und gespeicherte Scans bleiben erhalten. Der vollständige Bestandsabgleich bleibt für Verkäufe und Änderungen auf anderen Geräten verfügbar.",
-      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.34-73.ipa",
-      "size": 5946382,
+      "version": "0.30.35",
+      "versionDate": "2026-11-21T16:53:11Z",
+      "versionDescription": "Neu in KartenScan 0.30.35 (74):\n\n- Die Lagerkontrolle zeigt ihren tatsächlichen Fortschritt mit aktuellem Arbeitsschritt und nachvollziehbaren Zählern. Erst ein vollständig geprüfter und gespeicherter Abgleich gilt als abgeschlossen.\n- Prüffälle erklären die Abweichung pro Karte: gespeicherte und online angebotene Mengen, unterschiedliche Eigenschaften oder eine noch unklare Zuordnung. Ein bestätigter Lagerplatz verdeckt den Prüfgrund nicht mehr.\n- „Bearbeiten“ öffnet eine verständliche Gegenüberstellung der Lagerdaten und vorhandener Online-Angebote. Auch abweichende Sprache, Zustand oder Foil/Normal können zugeordnet werden. Bei mehreren Angeboten wählst du das richtige selbst aus.\n- Lagerdaten können ausdrücklich nur in KartenScan korrigiert werden. Änderungen eines bestehenden Cardmarket-Angebots werden nach dem Senden gezielt überprüft; die ausgewählte Lagerkarte wird erst nach bestätigtem Ergebnis angepasst.\n- „Nächste Karte“ blättert weiter und lässt den Prüffall offen. „Hinweis für diesen Abgleich ausblenden“ ist als gesonderte Aktion verständlich benannt.\n- Kartenbilder erhalten einen Ersatz für fehlende Scanbilder aus verifizierten Bildquellen der passenden Ausgabe.\n- Der vollständige Abgleich vermeidet doppelte frische Bestellabfragen und speichert Zwischenstände effizienter. Die Prüfung von Bestand und offenen Verkäufen bleibt vollständig.\n- Scanaufnahme, Speicherung und die aktuelle Ansicht bleiben von den Hintergrundprüfungen unabhängig.",
+      "downloadURL": "https://raw.githubusercontent.com/korny551/kartenscan-sidestore/main/KartenScan-0.30.35-74.ipa",
+      "size": 6172897,
       "minOSVersion": "17.0"
     }
   ]

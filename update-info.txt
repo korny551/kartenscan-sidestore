@@ -1,8 +1,10 @@
-Neu in KartenScan 0.30.34 (73):
+Neu in KartenScan 0.30.35 (74):
 
-- Die gemeinsame Anmeldung erklärt jetzt auch, wenn die Zuordnung zum Cardmarket-Verkäuferkonto noch nicht bestätigt werden konnte. Du kannst die fehlgeschlagene Prüfung gezielt wiederholen.
-- Nach dem Absenden der Cardmarket-Anmeldung wechselt die App zur eigenen Fortschrittsansicht. Der Anmeldebrowser bleibt auf die erforderlichen Anmelde- und Sicherheitsseiten begrenzt. Eine echte Sicherheitsbestätigung führst du weiterhin selbst aus.
-- In der Lagerkontrolle kannst du mit „Karte liegt hier“ einen Lagerplatz ausdrücklich bestätigen. Ein weiterhin fehlendes Online-Angebot bleibt als eigener Hinweis sichtbar.
-- Bestehende Cardmarket-Angebote lassen sich auch bei Sprache und Foil/Normal korrigieren, soweit das zugehörige Cardmarket-Formular dies unterstützt. Die App zeigt vor dem Senden, für wie viele Exemplare die Änderung gilt.
-- Nach einer Angebotskorrektur wird gezielt das betroffene Angebot geprüft. Erst ein bestätigter Online-Stand gilt als Erfolg; unklare Versuche werden nicht automatisch erneut gesendet.
-- Die aktuelle Ansicht und gespeicherte Scans bleiben erhalten. Der vollständige Bestandsabgleich bleibt für Verkäufe und Änderungen auf anderen Geräten verfügbar.
+- Die Lagerkontrolle zeigt ihren tatsächlichen Fortschritt mit aktuellem Arbeitsschritt und nachvollziehbaren Zählern. Erst ein vollständig geprüfter und gespeicherter Abgleich gilt als abgeschlossen.
+- Prüffälle erklären die Abweichung pro Karte: gespeicherte und online angebotene Mengen, unterschiedliche Eigenschaften oder eine noch unklare Zuordnung. Ein bestätigter Lagerplatz verdeckt den Prüfgrund nicht mehr.
+- „Bearbeiten“ öffnet eine verständliche Gegenüberstellung der Lagerdaten und vorhandener Online-Angebote. Auch abweichende Sprache, Zustand oder Foil/Normal können zugeordnet werden. Bei mehreren Angeboten wählst du das richtige selbst aus.
+- Lagerdaten können ausdrücklich nur in KartenScan korrigiert werden. Änderungen eines bestehenden Cardmarket-Angebots werden nach dem Senden gezielt überprüft; die ausgewählte Lagerkarte wird erst nach bestätigtem Ergebnis angepasst.
+- „Nächste Karte“ blättert weiter und lässt den Prüffall offen. „Hinweis für diesen Abgleich ausblenden“ ist als gesonderte Aktion verständlich benannt.
+- Kartenbilder erhalten einen Ersatz für fehlende Scanbilder aus verifizierten Bildquellen der passenden Ausgabe.
+- Der vollständige Abgleich vermeidet doppelte frische Bestellabfragen und speichert Zwischenstände effizienter. Die Prüfung von Bestand und offenen Verkäufen bleibt vollständig.
+- Scanaufnahme, Speicherung und die aktuelle Ansicht bleiben von den Hintergrundprüfungen unabhängig.
