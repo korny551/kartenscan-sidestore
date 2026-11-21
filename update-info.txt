@@ -1,8 +1,9 @@
-Neu in KartenScan 0.30.32 (71):
+Neu in KartenScan 0.30.33 (72):
 
-- Nach einem vollständigen Cardmarket-Bestandsabgleich kannst du gespeicherte Lagerplätze kontrollieren, deren passende Karten nicht mehr online sind. Die Kontrollansicht zeigt Kartenbild, Ordner, Seite und Fach wie beim Einsortieren.
-- Mit „Ignorieren“ behältst du die Zuordnung und überspringst den aktuellen Hinweis. „Aus Ordner löschen“ entfernt nur die betroffene Lagerzuordnung; bei Cardmarket wird nichts gelöscht. Offene Verkäufe und die genaue Kartenvariante werden berücksichtigt.
-- Der bekannte KartenScan-Zugang erhält einen übersichtlichen Willkommen-Bildschirm mit Face ID. Die Passworteingabe öffnest du nur bei Bedarf; ein abgebrochener Face-ID-Versuch lässt sich ruhig erneut starten.
-- Beim Start werden KartenScan und Cardmarket gemeinsam mit den gespeicherten Zugängen angemeldet. Die App wird erst freigegeben, wenn beide Anmeldungen bestätigt sind. Die gemeinsame Face-ID-Freigabe bleibt erhalten.
-- Die bestehende Sicherheitsbestätigung bleibt erhalten: passende Hinweise oben, Prüfung innerhalb der App und Rückkehr an dieselbe Stelle. Nach dem gemeinsamen Start laufen Scanaufnahme und Speicherung unabhängig von späteren Online-Prüfungen weiter.
-- Unter „Anmeldung & Konten“ findest du beide Konten und den geschützten Zugriff auf deine gespeicherten Cardmarket-Zugangsdaten übersichtlich zusammen.
+- Die Lagerkontrolle behält offene Hinweise auch nach einem Hintergrundwechsel oder App-Neustart. Im Bereich Bestand zeigen eine feste Kachel und die Zahl am Bestand-Symbol, welche Zuordnungen noch geprüft werden müssen.
+- Die Kontrolle berücksichtigt eigene Online-Angebote, offene Verkäufe und die genaue Kartenvariante. Auch unklare Artikel- oder Kontozuordnungen sowie ungeklärte Reservierungen werden sichtbar zur Prüfung angeboten.
+- Automatische Bestandsaktualisierungen werden in die Lagerkontrolle eingebunden. Frische, unveränderte Abrufstände werden wiederverwendet; ein vollständiger Abgleich wird nicht bei jeder einzelnen Aufnahme gestartet.
+- Die Kontrollansicht zeigt weiterhin das Kartenbild und die große Lageradresse. Ignorieren gilt für den jeweiligen Abgleich. Aus Ordner löschen entfernt ausschließlich die ausgewählte lokale Zuordnung; vor der Aktion werden der aktuelle Abgleich und die Reservierungen geprüft. Bei Cardmarket wird dabei nichts gelöscht.
+- Beim Appstart kann der normal gespeicherte Cardmarket-Zugang dieselbe Face-ID-Freigabe wie KartenScan verwenden. Die gemeinsame Anmeldung zeigt ihren Fortschritt in der bekannten App-Optik und gibt die App erst nach beiden bestätigten Anmeldungen frei. Eine echte Sicherheitsbestätigung bleibt manuell.
+- Antippbare Bedienelemente erhalten bei eingeschalteter Haptik einen kurzen, dezenten Bedienimpuls. Vorhandene Signale werden dabei berücksichtigt, um doppelte Impulse zu vermeiden; Scrollen und automatische Hintergrundvorgänge lösen kein Klickfeedback aus.
+- Scanaufnahme und Speicherung laufen während der Online-Abfragen weiter. Neue Lagerhinweise öffnen keine Seite über der Kamera.
