@@ -1,6 +1,3 @@
-Neu in KartenScan 0.30.37 (76):
-- Lagerplätze werden auf Geräten mit demselben Konto automatisch abgeglichen und auch in bereits geöffneten Bestellungen aktualisiert.
-- Der Lagerstatus zeigt erst nach bestätigter Speicherung einen erfolgreichen Abgleich. Noch offene Übertragungen und Verbindungsprobleme bleiben erkennbar; lokale Daten bleiben erhalten.
-- Bestellungen berücksichtigen aktualisierte Lagerplätze, ohne dieselbe Karte mehrfach zu reservieren. Abweichende Sprache, Zustand oder Foil werden verständlich erklärt.
-- Die gemeinsame Anmeldung verarbeitet Face ID, Hintergrundwechsel und Wiederholungen zuverlässiger. Bei einem Fehler werden der Grund und der passende nächste Schritt angezeigt.
-- Scannen und das Speichern neuer Aufnahmen laufen während des Lagerabgleichs weiter.
+Neu in KartenScan 0.30.38 (77):
+- Die automatische Cardmarket-Anmeldung setzt die Prüfung nach einem Seitenwechsel oder nach der Rückkehr zur App fort. Bereits abgesendete Anmeldedaten werden dafür nicht erneut übermittelt.
+- Ungelesene Chats werden auch erkannt, wenn Cardmarket die Markierung an der Nachrichtenzeile statt direkt am Chatlink anzeigt. Die Markierung und die Zahl am Nachrichten-Tab aktualisieren sich gemeinsam.
